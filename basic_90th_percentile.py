@@ -9,6 +9,16 @@ ashnola_data = pd.read_csv('Ashnola Jan1 2009-Feb 7-2020.csv')
 dataframes = [penticton_data, mccuddy_data, ashnola_data]
 dropColumns=['temperature', 'relative_humidity', 'wind_direction', 'wind_speed', 'precipitation', 'status', 'temp_valid', 'rh_valid', 'wdir_valid', 'wspeed_valid', 'precip_valid', 'gc', 'danger_rating']
 
+# fire season start and end dates (month and day in numeric format) for location
+# May 1 - Sept 15 used for these stations
+FIRE_SEASON_START_MONTH = 5
+FIRE_SEASON_START_DATE = 1
+FIRE_SEASON_END_MONTH = 9
+FIRE_SEASON_END_DATE = 15
+
+# percentile to report out (in decimal format)
+PERCENTILE = 0.9
+
 for col in dropColumns:
     penticton_data = penticton_data.drop(columns=[col])
     mccuddy_data = mccuddy_data.drop(columns=[col])
@@ -17,6 +27,11 @@ for col in dropColumns:
 ffmc_percentiles = []
 bui_percentiles = []
 isi_percentiles = []
+
+print('\n\n *------ PERCENTILE FIRE WEATHER CALCULATOR -------*\n\n')
+print('Percentile calculated: ' + str(PERCENTILE * 100))
+print('Fire season start month/date: ' + str(FIRE_SEASON_START_MONTH) + '/' + str(FIRE_SEASON_START_DATE))
+print('Fire season end month/date: ' + str(FIRE_SEASON_END_MONTH) + '/' + str(FIRE_SEASON_END_DATE))
 
 # parse weather_date string into 3 columns: yyyy - mm - dd
 for df in dataframes:
@@ -35,14 +50,18 @@ for df in dataframes:
     df.drop(indexNames, inplace=True)
 
     # remove data recorded outside of fire season
-    # assume fire season for Penticton is May 1 - August 31. I don't actually know, it's just a guess
-    indexNames = df[df['month'] > 8].index
+    indexNames = df[df['month'] < FIRE_SEASON_START_MONTH].index
     df.drop(indexNames, inplace=True)
-    indexNames = df[df['month'] < 5].index
+    indexNames = df[df['month'] > FIRE_SEASON_END_MONTH].index
+    df.drop(indexNames, inplace=True)
+    indexNames = df[(df['month'] == FIRE_SEASON_START_MONTH) & (df['day'] < FIRE_SEASON_START_DATE)].index
+    df.drop(indexNames, inplace=True)
+    indexNames = df[(df['month'] == FIRE_SEASON_END_MONTH) & (df['day'] > FIRE_SEASON_END_DATE)].index
     df.drop(indexNames, inplace=True)
 
+
     # calculate 90th percentile
-    ninetieth_percentile = df.quantile(.9)
+    ninetieth_percentile = df.quantile(PERCENTILE)
     ffmc_percentiles.append(ninetieth_percentile['ffmc'])
     isi_percentiles.append(ninetieth_percentile['isi'])
     bui_percentiles.append(ninetieth_percentile['bui'])

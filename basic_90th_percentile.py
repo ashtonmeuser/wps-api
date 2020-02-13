@@ -16,6 +16,10 @@ FIRE_SEASON_START_DATE = 1
 FIRE_SEASON_END_MONTH = 9
 FIRE_SEASON_END_DATE = 15
 
+# time range start and end years
+START_YEAR = 2009
+END_YEAR = 2019
+
 # percentile to report out (in decimal format)
 PERCENTILE = 0.9
 
@@ -32,6 +36,7 @@ print('\n\n *------ PERCENTILE FIRE WEATHER CALCULATOR -------*\n\n')
 print('Percentile calculated: ' + str(PERCENTILE * 100))
 print('Fire season start month/date: ' + str(FIRE_SEASON_START_MONTH) + '/' + str(FIRE_SEASON_START_DATE))
 print('Fire season end month/date: ' + str(FIRE_SEASON_END_MONTH) + '/' + str(FIRE_SEASON_END_DATE))
+print('Years included in time range: ' + str(START_YEAR) + ' - ' + str(END_YEAR))
 
 # parse weather_date string into 3 columns: yyyy - mm - dd
 for df in dataframes:
@@ -45,8 +50,11 @@ for df in dataframes:
     df['day'] = df['weather_date'].apply(lambda x: int(np.trunc((x % 100))))
     df = df.drop(columns=['weather_date'])
 
-    # remove data recorded > 10 years ago
-    indexNames = df[df['year'] < 2009].index
+    # remove data recorded before START_YEAR
+    indexNames = df[df['year'] < START_YEAR].index
+    df.drop(indexNames, inplace=True)
+    # remove data recorded after END_YEAR
+    indexNames = df[df['year'] > END_YEAR].index
     df.drop(indexNames, inplace=True)
 
     # remove data recorded outside of fire season
@@ -61,18 +69,19 @@ for df in dataframes:
 
 
     # calculate 90th percentile
-    ninetieth_percentile = df.quantile(PERCENTILE)
-    ffmc_percentiles.append(ninetieth_percentile['ffmc'])
-    isi_percentiles.append(ninetieth_percentile['isi'])
-    bui_percentiles.append(ninetieth_percentile['bui'])
+    calculated_percentile = df.quantile(PERCENTILE)
+    ffmc_percentiles.append(calculated_percentile['ffmc'])
+    isi_percentiles.append(calculated_percentile['isi'])
+    bui_percentiles.append(calculated_percentile['bui'])
 
 
     print('\n----- ' + station_name + ' -------\n')
     if (negative_values[negative_values==True].count().sum() > 0):
         print('Number of invalid values found: ' + str(negative_values[negative_values==True].count().sum()))
-    print('FFMC: ' + str(ninetieth_percentile['ffmc']))
-    print('ISI: ' + str(ninetieth_percentile['isi']))
-    print('BUI: ' + str(ninetieth_percentile['bui']))
+    print('Values at ' + str(PERCENTILE * 100) + 'th percentile:')
+    print('FFMC: ' + str(calculated_percentile['ffmc']))
+    print('ISI: ' + str(calculated_percentile['isi']))
+    print('BUI: ' + str(calculated_percentile['bui']))
     print('\n--------------\n')
 
 

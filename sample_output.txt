@@ -6,9 +6,11 @@
 Percentile calculated: 90.0
 Fire season start month/date: 5/1
 Fire season end month/date: 9/15
+Years included in time range: 2009 - 2019
 
 ----- PENTICTON RS -------
 
+Values at 90.0th percentile:
 FFMC: 93.97835
 ISI: 11.180011
 BUI: 198.73809999999997
@@ -18,6 +20,7 @@ BUI: 198.73809999999997
 
 ----- MCCUDDY -------
 
+Values at 90.0th percentile:
 FFMC: 94.707348
 ISI: 14.511330000000001
 BUI: 188.19975
@@ -27,6 +30,7 @@ BUI: 188.19975
 
 ----- ASHNOLA -------
 
+Values at 90.0th percentile:
 FFMC: 94.07827400000001
 ISI: 13.709858000000008
 BUI: 137.72865000000002

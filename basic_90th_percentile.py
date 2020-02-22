@@ -1,96 +1,113 @@
 import pandas as pd 
-import numpy as np
-from statistics import mean
+import json
 
-penticton_data = pd.read_csv('Penticton RS Jan1 2009-Feb 7-2020.csv')
-mccuddy_data = pd.read_csv('McCuddy Jan1 2009-Feb 7-2020.csv')
-ashnola_data = pd.read_csv('Ashnola Jan1 2009-Feb 7-2020.csv')
-
-dataframes = [penticton_data, mccuddy_data, ashnola_data]
-dropColumns=['temperature', 'relative_humidity', 'wind_direction', 'wind_speed', 'precipitation', 'status', 'temp_valid', 'rh_valid', 'wdir_valid', 'wspeed_valid', 'precip_valid', 'gc', 'danger_rating']
-
+# --------- INPUT PARAMETERS -----------------
 # fire season start and end dates (month and day in numeric format) for location
-# May 1 - Sept 15 used for these stations
+# May 1 - Aug 31 used for now as MVP
 FIRE_SEASON_START_MONTH = 5
 FIRE_SEASON_START_DATE = 1
-FIRE_SEASON_END_MONTH = 9
-FIRE_SEASON_END_DATE = 15
+FIRE_SEASON_END_MONTH = 8
+FIRE_SEASON_END_DATE = 31
 
 # time range start and end years
-START_YEAR = 2009
+# start of 2010 fire season to end of 2019 fire season is 10 years
+START_YEAR = 2010
 END_YEAR = 2019
 
 # percentile to report out (in decimal format)
 PERCENTILE = 0.9
 
-for col in dropColumns:
-    penticton_data = penticton_data.drop(columns=[col])
-    mccuddy_data = mccuddy_data.drop(columns=[col])
-    ashnola_data = ashnola_data.drop(columns=[col])
+OUTPUT_FILENAME = 'percentile_data.json'
+# ------------ end of input parameters ---------
 
-ffmc_percentiles = []
-bui_percentiles = []
-isi_percentiles = []
+# ---------- GLOBAL VARIABLES ----------------
+# import the CSV into Pandas dataframe
+daily_weather_data = pd.read_csv('DailyWeather.csv')
+# initialize empty Pandas Series for storing results
+ffmc_percentiles, bui_percentiles, isi_percentiles = pd.Series([], dtype=float), pd.Series([], dtype=float), pd.Series([], dtype=float)
+# initialize empty dictionary for storing output to json
+station_summary_dict = {}
+# create global Season instance to be used in output
+season = {
+    'start_month': FIRE_SEASON_START_MONTH,
+    'start_day': FIRE_SEASON_START_DATE,
+    'end_month': FIRE_SEASON_END_MONTH,
+    'end_day': FIRE_SEASON_END_DATE
+}
+# create global YearRange instance to be used in output
+year_range = {
+    'start': START_YEAR,
+    'end': END_YEAR
+}
+# ----------- end of global variables -------------
 
-print('\n\n *------ PERCENTILE FIRE WEATHER CALCULATOR -------*\n\n')
-print('Percentile calculated: ' + str(PERCENTILE * 100))
-print('Fire season start month/date: ' + str(FIRE_SEASON_START_MONTH) + '/' + str(FIRE_SEASON_START_DATE))
-print('Fire season end month/date: ' + str(FIRE_SEASON_END_MONTH) + '/' + str(FIRE_SEASON_END_DATE))
-print('Years included in time range: ' + str(START_YEAR) + ' - ' + str(END_YEAR))
+# the algorithm
+def main():
+    parse_weather_dates()
+    remove_data_outside_date_range()
+    remove_data_outside_fire_season()
+    sort_by_weather_station()
+    calculate_percentile_per_station()
+    write_output_to_json()
 
-# parse weather_date string into 3 columns: yyyy - mm - dd
-for df in dataframes:
-    station_name = str(df['display_name'].iloc[0])
+def parse_weather_dates():
+    # parse weather_date string into 3 columns: yyyy - mm - dd
+    daily_weather_data['weather_date'] = daily_weather_data['weather_date'].apply(str)
+    daily_weather_data['year'] = daily_weather_data['weather_date'].apply(lambda x: int(x[:4]))
+    daily_weather_data['month'] = daily_weather_data['weather_date'].apply(lambda x: int(x[4:6]))
+    daily_weather_data['day'] = daily_weather_data['weather_date'].apply(lambda x: int(x[6:]))
+    return
 
-    # sanity check - report if any indexes or code values are negative (they shouldn't be)
-    negative_values = df[['ffmc', 'bui', 'isi']] < 0
-
-    df['year'] = df['weather_date'].apply(lambda x: int(np.trunc(x/10000)))
-    df['month'] = df['weather_date'].apply(lambda x: int(np.trunc((x % 1000) / 100)))
-    df['day'] = df['weather_date'].apply(lambda x: int(np.trunc((x % 100))))
-    df = df.drop(columns=['weather_date'])
-
+def remove_data_outside_date_range():
     # remove data recorded before START_YEAR
-    indexNames = df[df['year'] < START_YEAR].index
-    df.drop(indexNames, inplace=True)
+    indexNames = daily_weather_data[daily_weather_data['year'] < START_YEAR].index
+    daily_weather_data.drop(indexNames, inplace=True)
     # remove data recorded after END_YEAR
-    indexNames = df[df['year'] > END_YEAR].index
-    df.drop(indexNames, inplace=True)
+    indexNames = daily_weather_data[daily_weather_data['year'] > END_YEAR].index
+    daily_weather_data.drop(indexNames, inplace=True)
+    return 
 
+def remove_data_outside_fire_season():
     # remove data recorded outside of fire season
-    indexNames = df[df['month'] < FIRE_SEASON_START_MONTH].index
-    df.drop(indexNames, inplace=True)
-    indexNames = df[df['month'] > FIRE_SEASON_END_MONTH].index
-    df.drop(indexNames, inplace=True)
-    indexNames = df[(df['month'] == FIRE_SEASON_START_MONTH) & (df['day'] < FIRE_SEASON_START_DATE)].index
-    df.drop(indexNames, inplace=True)
-    indexNames = df[(df['month'] == FIRE_SEASON_END_MONTH) & (df['day'] > FIRE_SEASON_END_DATE)].index
-    df.drop(indexNames, inplace=True)
+    indexNames = daily_weather_data[daily_weather_data['month'] < FIRE_SEASON_START_MONTH].index
+    daily_weather_data.drop(indexNames, inplace=True)
+    indexNames = daily_weather_data[daily_weather_data['month'] > FIRE_SEASON_END_MONTH].index
+    daily_weather_data.drop(indexNames, inplace=True)
+    indexNames = daily_weather_data[(daily_weather_data['month'] == FIRE_SEASON_START_MONTH) & (daily_weather_data['day'] < FIRE_SEASON_START_DATE)].index
+    daily_weather_data.drop(indexNames, inplace=True)
+    indexNames = daily_weather_data[(daily_weather_data['month'] == FIRE_SEASON_END_MONTH) & (daily_weather_data['day'] > FIRE_SEASON_END_DATE)].index
+    daily_weather_data.drop(indexNames, inplace=True)
+    return
 
+def sort_by_weather_station():
+    # sort the dataframe by station ID
+    daily_weather_data.sort_values(by=['station_code'], inplace=True)
+    return 
 
-    # calculate 90th percentile
-    calculated_percentile = df.quantile(PERCENTILE)
-    ffmc_percentiles.append(calculated_percentile['ffmc'])
-    isi_percentiles.append(calculated_percentile['isi'])
-    bui_percentiles.append(calculated_percentile['bui'])
+def calculate_percentile_per_station():
+    global ffmc_percentiles, bui_percentiles, isi_percentiles
+    ffmc_percentiles = daily_weather_data.groupby('station_code').ffmc.quantile(PERCENTILE)
+    bui_percentiles = daily_weather_data.groupby('station_code').bui.quantile(PERCENTILE)
+    isi_percentiles = daily_weather_data.groupby('station_code').isi.quantile(PERCENTILE)
+    return
 
+def write_output_to_json():
+    global season, year_range, station_summary_dict
+    for index, value in ffmc_percentiles.items():
+        station_summary = {
+            'FFMC': ffmc_percentiles[index],
+            'ISI': isi_percentiles[index],
+            'BUI': bui_percentiles[index],
+            'season': season,
+            'year_range': year_range,
+            'station_name': daily_weather_data.loc[daily_weather_data['station_code'] == index, 'station_name'].iloc[0]
+        }
+        station_summary_dict[index] = station_summary
 
-    print('\n----- ' + station_name + ' -------\n')
-    if (negative_values[negative_values==True].count().sum() > 0):
-        print('Number of invalid values found: ' + str(negative_values[negative_values==True].count().sum()))
-    print('Values at ' + str(PERCENTILE * 100) + 'th percentile:')
-    print('FFMC: ' + str(calculated_percentile['ffmc']))
-    print('ISI: ' + str(calculated_percentile['isi']))
-    print('BUI: ' + str(calculated_percentile['bui']))
-    print('\n--------------\n')
+    with open(OUTPUT_FILENAME, 'w') as json_file:
+        json.dump(station_summary_dict, json_file)
 
+    return 
 
-# data completeness check - report if FFMC, BUI, or ISI data is missing for any day
-
-# data completeness check - report if any days within fire season in 2009 - 2019 are missing
-
-# report mean values for each of FFMC, BUI, & ISI
-print('Mean FFMC: ' + str(mean(ffmc_percentiles)))
-print('Mean ISI: ' + str(mean(isi_percentiles)))
-print('Mean BUI: ' + str(mean(bui_percentiles)))
-print('\n\n')
+if __name__ == '__main__':
+    main()

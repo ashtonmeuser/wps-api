@@ -1,0 +1,6306 @@
+{
+    "11": {
+        "FFMC": 90.72190856933594,
+        "ISI": 6.654181480407715,
+        "BUI": 87.04174957275391,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SUMMIT"
+    },
+    "19": {
+        "FFMC": 92.39443359375001,
+        "ISI": 9.001711463928224,
+        "BUI": 131.6053573608399,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MENZIES CAMP"
+    },
+    "21": {
+        "FFMC": 91.4142822265625,
+        "ISI": 8.133113670349122,
+        "BUI": 120.00887145996094,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WOSS CAMP"
+    },
+    "37": {
+        "FFMC": 92.81759948730469,
+        "ISI": 9.182328224182129,
+        "BUI": 141.79985656738282,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BEAVER CREEK"
+    },
+    "45": {
+        "FFMC": 89.15907745361328,
+        "ISI": 7.507636833190919,
+        "BUI": 162.63291625976564,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SALTSPRING 2"
+    },
+    "56": {
+        "FFMC": 89.98815612792968,
+        "ISI": 6.525314044952392,
+        "BUI": 131.78915710449223,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BOWSER"
+    },
+    "59": {
+        "FFMC": 91.23283081054687,
+        "ISI": 8.55779333114624,
+        "BUI": 170.46871795654297,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CEDAR"
+    },
+    "67": {
+        "FFMC": 91.14484634399415,
+        "ISI": 8.61724739074707,
+        "BUI": 107.9005355834961,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HAIG CAMP"
+    },
+    "72": {
+        "FFMC": 90.54983520507812,
+        "ISI": 6.194853115081788,
+        "BUI": 103.1023651123047,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "UBC RESEARCH"
+    },
+    "74": {
+        "FFMC": 91.27738800048829,
+        "ISI": 8.706199836730956,
+        "BUI": 115.66645355224608,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CHILLIWACK NURSERY"
+    },
+    "75": {
+        "FFMC": 93.49272766113282,
+        "ISI": 9.671152400970463,
+        "BUI": 121.71934738159183,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TOBA CAMP"
+    },
+    "82": {
+        "FFMC": 94.46381072998047,
+        "ISI": 11.513214492797854,
+        "BUI": 143.4055725097657,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SCAR CREEK"
+    },
+    "93": {
+        "FFMC": 87.03850402832032,
+        "ISI": 4.401887989044189,
+        "BUI": 68.28451538085938,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HONNA"
+    },
+    "101": {
+        "FFMC": 91.77231216430664,
+        "ISI": 8.110464286804197,
+        "BUI": 91.23553314208985,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MACHMELL"
+    },
+    "105": {
+        "FFMC": 91.75691528320313,
+        "ISI": 7.845634460449219,
+        "BUI": 88.99407958984375,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ROSSWOOD"
+    },
+    "106": {
+        "FFMC": 90.68144226074219,
+        "ISI": 7.963165760040283,
+        "BUI": 88.25484848022461,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KITPARK"
+    },
+    "108": {
+        "FFMC": 91.8399688720703,
+        "ISI": 10.790193939208983,
+        "BUI": 91.0156265258789,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "DEASE LAKE FS"
+    },
+    "110": {
+        "FFMC": 90.73582229614257,
+        "ISI": 9.724873733520509,
+        "BUI": 161.24291076660157,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TELEGRAPH CREEK"
+    },
+    "111": {
+        "FFMC": 90.54555816650391,
+        "ISI": 9.772828102111816,
+        "BUI": 120.85628509521484,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ATLIN"
+    },
+    "112": {
+        "FFMC": 91.88658905029295,
+        "ISI": 8.96714019775391,
+        "BUI": 101.56389007568362,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ISKUT"
+    },
+    "113": {
+        "FFMC": 90.50870361328126,
+        "ISI": 6.643186092376708,
+        "BUI": 62.74895477294922,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BOB QUINN LAKE"
+    },
+    "117": {
+        "FFMC": 92.22337799072265,
+        "ISI": 11.346865272521974,
+        "BUI": 90.29749298095703,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SIERRA"
+    },
+    "118": {
+        "FFMC": 92.29737091064452,
+        "ISI": 13.216984939575196,
+        "BUI": 86.88302612304689,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HELMUT"
+    },
+    "119": {
+        "FFMC": 92.6530258178711,
+        "ISI": 9.686961746215822,
+        "BUI": 87.07822570800784,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NELSON FORKS"
+    },
+    "120": {
+        "FFMC": 92.32493133544922,
+        "ISI": 11.742934226989746,
+        "BUI": 65.01983261108398,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SILVER"
+    },
+    "121": {
+        "FFMC": 92.4531639099121,
+        "ISI": 10.250178146362305,
+        "BUI": 84.56691360473633,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PADDY"
+    },
+    "124": {
+        "FFMC": 93.00331115722656,
+        "ISI": 12.914348793029786,
+        "BUI": 95.24257278442388,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GRAHAM"
+    },
+    "126": {
+        "FFMC": 92.88910903930665,
+        "ISI": 11.391109466552734,
+        "BUI": 85.68159484863281,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TOAD RIVER"
+    },
+    "127": {
+        "FFMC": 92.4432830810547,
+        "ISI": 12.407711410522463,
+        "BUI": 86.76119613647461,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TUMBLER(DENISON) HUB"
+    },
+    "129": {
+        "FFMC": 92.16579055786133,
+        "ISI": 10.08771562576294,
+        "BUI": 76.57085723876955,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PINK MOUNTAIN"
+    },
+    "131": {
+        "FFMC": 92.30194244384765,
+        "ISI": 12.789223861694339,
+        "BUI": 64.70319519042968,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MUSKWA"
+    },
+    "132": {
+        "FFMC": 92.33187103271484,
+        "ISI": 12.256677818298341,
+        "BUI": 114.04046173095705,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HUDSON HOPE"
+    },
+    "136": {
+        "FFMC": 91.96862716674805,
+        "ISI": 12.073416137695313,
+        "BUI": 86.92806243896484,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WONOWON"
+    },
+    "138": {
+        "FFMC": 91.54756164550781,
+        "ISI": 10.372609519958496,
+        "BUI": 76.15341339111329,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "RED DEER"
+    },
+    "140": {
+        "FFMC": 92.46250915527344,
+        "ISI": 9.69255256652832,
+        "BUI": 94.39270782470705,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LEMORAY"
+    },
+    "141": {
+        "FFMC": 92.63580932617188,
+        "ISI": 8.768372821807862,
+        "BUI": 91.11735992431642,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MANSON"
+    },
+    "144": {
+        "FFMC": 92.0272430419922,
+        "ISI": 8.215152740478516,
+        "BUI": 71.64798736572266,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TABLE RIVER"
+    },
+    "145": {
+        "FFMC": 93.38439483642577,
+        "ISI": 11.30512752532959,
+        "BUI": 89.6650131225586,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "INGENIKA POINT"
+    },
+    "146": {
+        "FFMC": 92.40988159179688,
+        "ISI": 10.661570072174072,
+        "BUI": 114.44174575805664,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FORT ST JAMES"
+    },
+    "148": {
+        "FFMC": 92.0350730895996,
+        "ISI": 9.586279487609865,
+        "BUI": 86.43829650878907,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BLACKPINE"
+    },
+    "149": {
+        "FFMC": 92.6165771484375,
+        "ISI": 10.543050765991213,
+        "BUI": 99.93021392822266,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BEAR LAKE"
+    },
+    "151": {
+        "FFMC": 92.00695190429687,
+        "ISI": 13.680792140960692,
+        "BUI": 91.94290390014645,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NABESHE"
+    },
+    "152": {
+        "FFMC": 91.55602645874023,
+        "ISI": 9.328161525726319,
+        "BUI": 72.13996810913086,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SIFTON"
+    },
+    "153": {
+        "FFMC": 91.95213012695312,
+        "ISI": 9.3174334526062,
+        "BUI": 89.26419830322267,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MCLEOD LAKE"
+    },
+    "154": {
+        "FFMC": 92.09812469482422,
+        "ISI": 10.977827453613283,
+        "BUI": 89.45475158691409,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WITCH"
+    },
+    "155": {
+        "FFMC": 91.87298126220703,
+        "ISI": 8.94692001342774,
+        "BUI": 93.34153747558594,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MACKENZIE FS"
+    },
+    "156": {
+        "FFMC": 91.91959762573242,
+        "ISI": 10.282456970214849,
+        "BUI": 81.24984054565432,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SUSTUT"
+    },
+    "158": {
+        "FFMC": 91.90765380859375,
+        "ISI": 12.56254243850708,
+        "BUI": 122.62725448608398,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "VANDERHOOF HUB"
+    },
+    "159": {
+        "FFMC": 92.55415649414063,
+        "ISI": 9.828004455566406,
+        "BUI": 109.93407135009764,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NORTH CHILCO"
+    },
+    "161": {
+        "FFMC": 91.89895782470703,
+        "ISI": 9.723833370208741,
+        "BUI": 113.93073806762695,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GRASSY PLAINS HUB"
+    },
+    "162": {
+        "FFMC": 91.98022079467773,
+        "ISI": 8.870076751708984,
+        "BUI": 133.08192749023448,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HOUSTON(DUNGATE)"
+    },
+    "163": {
+        "FFMC": 91.59347534179688,
+        "ISI": 8.077962875366211,
+        "BUI": 87.33924102783203,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LOVELL COVE"
+    },
+    "165": {
+        "FFMC": 92.9955062866211,
+        "ISI": 10.451816940307618,
+        "BUI": 122.25759735107428,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MOOSE LAKE"
+    },
+    "166": {
+        "FFMC": 92.77709579467773,
+        "ISI": 10.168504905700683,
+        "BUI": 99.2917999267578,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KLUSKUS"
+    },
+    "167": {
+        "FFMC": 92.36929779052736,
+        "ISI": 9.730294990539551,
+        "BUI": 101.07913665771484,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "AUGIER LAKE"
+    },
+    "169": {
+        "FFMC": 92.16053771972656,
+        "ISI": 8.49375057220459,
+        "BUI": 119.8118423461914,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "UPPER FULTON"
+    },
+    "170": {
+        "FFMC": 92.77927017211914,
+        "ISI": 10.173979949951173,
+        "BUI": 124.94189453125,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "EAST OOTSA"
+    },
+    "171": {
+        "FFMC": 92.72496032714844,
+        "ISI": 9.825488090515137,
+        "BUI": 118.2099609375,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LEO CREEK"
+    },
+    "172": {
+        "FFMC": 91.90694808959961,
+        "ISI": 8.98386859893799,
+        "BUI": 71.378173828125,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NILKITKWA"
+    },
+    "173": {
+        "FFMC": 91.64964370727539,
+        "ISI": 8.500147819519043,
+        "BUI": 76.1172103881836,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NORTH BABINE"
+    },
+    "175": {
+        "FFMC": 92.38748550415039,
+        "ISI": 9.635744285583497,
+        "BUI": 106.52930450439453,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BEDNESTI"
+    },
+    "178": {
+        "FFMC": 92.5470962524414,
+        "ISI": 10.774365425109863,
+        "BUI": 143.26229095458984,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PEDEN"
+    },
+    "179": {
+        "FFMC": 92.94157257080077,
+        "ISI": 10.550308799743654,
+        "BUI": 124.41314392089845,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NADINA"
+    },
+    "180": {
+        "FFMC": 92.47226104736328,
+        "ISI": 9.701792335510255,
+        "BUI": 137.53353881835938,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MCBRIDE LAKE"
+    },
+    "181": {
+        "FFMC": 92.41597213745118,
+        "ISI": 10.82064437866211,
+        "BUI": 95.7356414794922,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BURNS LAKE 850M"
+    },
+    "182": {
+        "FFMC": 91.33465347290038,
+        "ISI": 8.090405464172362,
+        "BUI": 91.10971069335938,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GANOKWA"
+    },
+    "183": {
+        "FFMC": 91.94765014648438,
+        "ISI": 9.504416751861575,
+        "BUI": 100.47341003417971,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PARROTT"
+    },
+    "187": {
+        "FFMC": 92.31120681762695,
+        "ISI": 8.46333637237549,
+        "BUI": 90.05872955322266,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HIXON"
+    },
+    "189": {
+        "FFMC": 93.72510986328126,
+        "ISI": 11.421617698669431,
+        "BUI": 127.44321136474609,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CHILAKO"
+    },
+    "190": {
+        "FFMC": 92.53943328857422,
+        "ISI": 9.320036125183105,
+        "BUI": 73.11483459472657,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "JERRY"
+    },
+    "191": {
+        "FFMC": 91.95215606689453,
+        "ISI": 8.180111885070799,
+        "BUI": 68.74629211425781,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ MCGREGOR [archived]"
+    },
+    "192": {
+        "FFMC": 91.76487426757812,
+        "ISI": 7.9504382133483915,
+        "BUI": 64.4230865478516,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MCGREGOR 2"
+    },
+    "193": {
+        "FFMC": 93.0500030517578,
+        "ISI": 9.45251178741455,
+        "BUI": 68.73155975341797,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BOWRON HAGGEN"
+    },
+    "194": {
+        "FFMC": 94.38123931884766,
+        "ISI": 12.308818435668947,
+        "BUI": 105.54862365722659,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "VALEMOUNT HUB"
+    },
+    "195": {
+        "FFMC": 92.09416198730469,
+        "ISI": 9.881709575653076,
+        "BUI": 81.88383483886719,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MCBRIDE"
+    },
+    "199": {
+        "FFMC": 91.72493286132813,
+        "ISI": 7.441157817840576,
+        "BUI": 54.96702575683594,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CATFISH"
+    },
+    "200": {
+        "FFMC": 92.99161911010742,
+        "ISI": 9.35179405212402,
+        "BUI": 70.48932037353515,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "VALEMOUNT 2"
+    },
+    "201": {
+        "FFMC": 93.12527160644532,
+        "ISI": 9.577497100830078,
+        "BUI": 57.41620559692382,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HOLMES"
+    },
+    "206": {
+        "FFMC": 93.4590576171875,
+        "ISI": 12.090191268920899,
+        "BUI": 124.33843154907227,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TAUTRI"
+    },
+    "208": {
+        "FFMC": 94.01324081420898,
+        "ISI": 13.070677757263184,
+        "BUI": 189.61073303222656,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TATLA LAKE HUB"
+    },
+    "209": {
+        "FFMC": 94.14168930053712,
+        "ISI": 13.55373239517212,
+        "BUI": 172.50096893310547,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ALEXIS CREEK"
+    },
+    "210": {
+        "FFMC": 94.12702178955078,
+        "ISI": 14.947553730010988,
+        "BUI": 157.15555114746093,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "RISKE CREEK"
+    },
+    "211": {
+        "FFMC": 93.32318878173828,
+        "ISI": 11.3778790473938,
+        "BUI": 121.12678222656255,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NAZKO"
+    },
+    "212": {
+        "FFMC": 93.75714645385742,
+        "ISI": 11.58807373046875,
+        "BUI": 124.20988464355469,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PLACE LAKE"
+    },
+    "213": {
+        "FFMC": 92.77733917236328,
+        "ISI": 11.56485118865967,
+        "BUI": 158.05083312988282,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ANAHIM LAKE HUB"
+    },
+    "216": {
+        "FFMC": 93.03634185791014,
+        "ISI": 12.785578536987305,
+        "BUI": 142.12117614746094,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NEMIAH"
+    },
+    "218": {
+        "FFMC": 92.84102249145508,
+        "ISI": 11.261999511718749,
+        "BUI": 123.21167602539062,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LONE BUTTE"
+    },
+    "221": {
+        "FFMC": 92.72798919677734,
+        "ISI": 12.12201900482178,
+        "BUI": 125.43716125488282,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BALDFACE"
+    },
+    "222": {
+        "FFMC": 92.3209732055664,
+        "ISI": 13.138701915740969,
+        "BUI": 100.2544044494629,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GASPARD"
+    },
+    "225": {
+        "FFMC": 94.06221389770508,
+        "ISI": 11.949206066131596,
+        "BUI": 132.9626373291016,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KNIFE"
+    },
+    "226": {
+        "FFMC": 94.895011138916,
+        "ISI": 16.129862022399905,
+        "BUI": 225.4913070678712,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MIDDLE LAKE"
+    },
+    "227": {
+        "FFMC": 92.45757064819337,
+        "ISI": 9.33346576690674,
+        "BUI": 94.05747222900392,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GAVIN"
+    },
+    "228": {
+        "FFMC": 92.38491668701172,
+        "ISI": 10.295816898345945,
+        "BUI": 97.1145195007324,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BENSON"
+    },
+    "230": {
+        "FFMC": 93.54425811767578,
+        "ISI": 11.102378082275392,
+        "BUI": 112.9467758178711,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HORSEFLY"
+    },
+    "232": {
+        "FFMC": 93.86441345214844,
+        "ISI": 12.095869064331055,
+        "BUI": 91.12848281860352,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "COLDSCAUR LAKE"
+    },
+    "233": {
+        "FFMC": 93.38050537109375,
+        "ISI": 9.430573272705079,
+        "BUI": 156.55193786621095,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TALCHAKO"
+    },
+    "234": {
+        "FFMC": 92.53269577026367,
+        "ISI": 9.308384132385255,
+        "BUI": 91.39725570678713,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TIMOTHY"
+    },
+    "235": {
+        "FFMC": 93.69169998168945,
+        "ISI": 12.97339849472046,
+        "BUI": 119.92665786743164,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "YOUNG LAKE"
+    },
+    "236": {
+        "FFMC": 93.85047912597656,
+        "ISI": 13.938669204711916,
+        "BUI": 133.15689544677736,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MEADOW LAKE"
+    },
+    "239": {
+        "FFMC": 94.7785530090332,
+        "ISI": 11.448588562011718,
+        "BUI": 131.90250701904296,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CLEARWATER HUB"
+    },
+    "243": {
+        "FFMC": 94.20117950439452,
+        "ISI": 11.05074577331543,
+        "BUI": 127.37045516967774,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "EAST BARRIERE"
+    },
+    "244": {
+        "FFMC": 92.82430419921874,
+        "ISI": 11.70385150909424,
+        "BUI": 85.10911712646485,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WINDY MOUNTAIN"
+    },
+    "250": {
+        "FFMC": 92.31767272949219,
+        "ISI": 9.223885917663575,
+        "BUI": 61.889195251464855,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HARBOUR LAKE"
+    },
+    "251": {
+        "FFMC": 92.37993927001955,
+        "ISI": 9.063730239868164,
+        "BUI": 87.39112701416016,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "DECEPTION"
+    },
+    "253": {
+        "FFMC": 91.23174591064453,
+        "ISI": 7.97906494140625,
+        "BUI": 82.78514862060547,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CAHILTY"
+    },
+    "255": {
+        "FFMC": 92.51930389404298,
+        "ISI": 9.785612678527832,
+        "BUI": 92.28543701171876,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LIKELY RS"
+    },
+    "262": {
+        "FFMC": 90.20992736816406,
+        "ISI": 8.262073516845708,
+        "BUI": 44.99129142761232,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BIG VALLEY"
+    },
+    "263": {
+        "FFMC": 92.9665313720703,
+        "ISI": 10.654088973999023,
+        "BUI": 58.20924949645996,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MATHEW"
+    },
+    "264": {
+        "FFMC": 92.20476684570313,
+        "ISI": 9.372319984436036,
+        "BUI": 81.23460388183594,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PRAIRIE CREEK"
+    },
+    "266": {
+        "FFMC": 94.27057342529297,
+        "ISI": 11.389959812164307,
+        "BUI": 88.62286376953125,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WELLS GRAY"
+    },
+    "267": {
+        "FFMC": 92.17964248657226,
+        "ISI": 10.584339427948,
+        "BUI": 73.29401473999025,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BERRY"
+    },
+    "270": {
+        "FFMC": 90.71463317871094,
+        "ISI": 7.9743287563323975,
+        "BUI": 44.93354606628418,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GOSNEL"
+    },
+    "279": {
+        "FFMC": 93.64853515625,
+        "ISI": 13.236207771301268,
+        "BUI": 147.4445709228516,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "THYNNE"
+    },
+    "280": {
+        "FFMC": 94.85142517089844,
+        "ISI": 14.6003830909729,
+        "BUI": 219.8017593383789,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LILLOOET"
+    },
+    "283": {
+        "FFMC": 93.61358184814452,
+        "ISI": 13.390247344970705,
+        "BUI": 126.48909759521484,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BRENDA MINES"
+    },
+    "286": {
+        "FFMC": 94.86477661132814,
+        "ISI": 12.656498432159422,
+        "BUI": 156.53034057617185,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TURTLE"
+    },
+    "291": {
+        "FFMC": 93.10697631835937,
+        "ISI": 10.34458999633789,
+        "BUI": 117.46877136230468,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GLIMPSE"
+    },
+    "292": {
+        "FFMC": 95.02022247314453,
+        "ISI": 12.998310470581055,
+        "BUI": 201.77117309570312,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "D'ARCY"
+    },
+    "294": {
+        "FFMC": 94.92321090698242,
+        "ISI": 17.222421455383298,
+        "BUI": 192.521662902832,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MERRITT HUB"
+    },
+    "298": {
+        "FFMC": 94.2370246887207,
+        "ISI": 12.22290897369385,
+        "BUI": 212.39313659667968,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FINTRY"
+    },
+    "301": {
+        "FFMC": 93.48978881835937,
+        "ISI": 9.182936763763427,
+        "BUI": 164.9443420410156,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PEMBERTON BASE"
+    },
+    "302": {
+        "FFMC": 94.31526184082033,
+        "ISI": 15.28686237335205,
+        "BUI": 172.52830505371094,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ASPEN GROVE"
+    },
+    "305": {
+        "FFMC": 94.45899810791016,
+        "ISI": 12.244595050811768,
+        "BUI": 149.50797119140626,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SPARKS LAKE"
+    },
+    "306": {
+        "FFMC": 93.74272308349609,
+        "ISI": 14.019582748413086,
+        "BUI": 124.03836212158205,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FRENCH BAR"
+    },
+    "307": {
+        "FFMC": 94.2397964477539,
+        "ISI": 14.487239646911622,
+        "BUI": 137.1202819824219,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LEIGHTON LAKE"
+    },
+    "309": {
+        "FFMC": 93.47501983642579,
+        "ISI": 11.078136825561522,
+        "BUI": 162.34793395996093,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GWYNETH LAKE"
+    },
+    "311": {
+        "FFMC": 93.4816047668457,
+        "ISI": 10.587171745300294,
+        "BUI": 126.91080780029299,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MCLEAN LAKE"
+    },
+    "316": {
+        "FFMC": 94.64506225585937,
+        "ISI": 12.29761562347412,
+        "BUI": 155.0575714111328,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NAHATLATCH"
+    },
+    "317": {
+        "FFMC": 94.95859222412109,
+        "ISI": 15.589389991760253,
+        "BUI": 157.5261016845703,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ALLISON PASS"
+    },
+    "321": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GREENSTONE HUB"
+    },
+    "322": {
+        "FFMC": 94.02491455078125,
+        "ISI": 15.571719360351562,
+        "BUI": 181.0136825561523,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "AFTON"
+    },
+    "326": {
+        "FFMC": 93.20806579589843,
+        "ISI": 13.440574645996096,
+        "BUI": 121.413818359375,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PASKA LAKE"
+    },
+    "328": {
+        "FFMC": 94.03305282592774,
+        "ISI": 11.247836017608643,
+        "BUI": 193.7677459716797,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PENTICTON RS"
+    },
+    "331": {
+        "FFMC": 94.2855453491211,
+        "ISI": 14.173633861541756,
+        "BUI": 142.34047546386728,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ASHNOLA"
+    },
+    "334": {
+        "FFMC": 94.80382843017578,
+        "ISI": 14.741975021362304,
+        "BUI": 175.0281799316406,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MCCUDDY"
+    },
+    "343": {
+        "FFMC": 92.49986953735352,
+        "ISI": 9.47345790863037,
+        "BUI": 95.37573089599611,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HOWARD"
+    },
+    "344": {
+        "FFMC": 93.6819076538086,
+        "ISI": 9.874753379821778,
+        "BUI": 98.16084671020508,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SEYMOUR ARM"
+    },
+    "346": {
+        "FFMC": 93.68705978393554,
+        "ISI": 11.005441665649414,
+        "BUI": 136.7296585083008,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SALMON ARM"
+    },
+    "352": {
+        "FFMC": 93.93839569091797,
+        "ISI": 10.610761642456055,
+        "BUI": 82.63377227783201,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CURWEN CREEK"
+    },
+    "361": {
+        "FFMC": 92.6587013244629,
+        "ISI": 10.164693832397461,
+        "BUI": 89.80359420776367,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TSAR CREEK"
+    },
+    "362": {
+        "FFMC": 93.44552001953126,
+        "ISI": 11.300867080688478,
+        "BUI": 122.20934448242191,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MABEL LAKE 2"
+    },
+    "363": {
+        "FFMC": 93.51769714355468,
+        "ISI": 10.341045379638672,
+        "BUI": 106.15118865966797,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "REVELSTOKE"
+    },
+    "366": {
+        "FFMC": 93.3144546508789,
+        "ISI": 11.397997093200685,
+        "BUI": 99.70974884033204,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WHISKEY"
+    },
+    "367": {
+        "FFMC": 93.58449172973633,
+        "ISI": 11.194984436035156,
+        "BUI": 94.10315093994141,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MARION"
+    },
+    "374": {
+        "FFMC": 92.72628326416016,
+        "ISI": 9.4942138671875,
+        "BUI": 114.9773178100586,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SUCCOUR CREEK"
+    },
+    "376": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TABERNACLE  (WIND)"
+    },
+    "379": {
+        "FFMC": 94.48075714111327,
+        "ISI": 11.99546718597412,
+        "BUI": 116.48179626464844,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GOLD HILL"
+    },
+    "380": {
+        "FFMC": 94.17064514160157,
+        "ISI": 13.976032257080078,
+        "BUI": 117.08344268798828,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "POWDER CREEK"
+    },
+    "383": {
+        "FFMC": 92.87735519409179,
+        "ISI": 9.714111804962156,
+        "BUI": 108.83780212402341,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FALLS CREEK"
+    },
+    "384": {
+        "FFMC": 90.96711730957031,
+        "ISI": 6.9188780784606925,
+        "BUI": 76.7912826538086,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ HOWSER"
+    },
+    "385": {
+        "FFMC": 93.91562194824219,
+        "ISI": 11.930567264556885,
+        "BUI": 90.59117813110352,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "DUNCAN"
+    },
+    "387": {
+        "FFMC": 93.60972900390625,
+        "ISI": 12.73835554122925,
+        "BUI": 105.19139022827152,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TROUT LAKE"
+    },
+    "388": {
+        "FFMC": 94.48727416992189,
+        "ISI": 11.73932628631592,
+        "BUI": 109.81599731445316,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KETTLE 2"
+    },
+    "390": {
+        "FFMC": 95.98384704589843,
+        "ISI": 15.123873424530027,
+        "BUI": 184.76007843017578,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BEAVERDELL"
+    },
+    "391": {
+        "FFMC": 93.92282867431639,
+        "ISI": 12.449966049194337,
+        "BUI": 134.8703704833985,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "EIGHT MILE"
+    },
+    "392": {
+        "FFMC": 95.56715316772461,
+        "ISI": 16.88499298095703,
+        "BUI": 216.9077407836914,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GRAND FORKS"
+    },
+    "393": {
+        "FFMC": 95.66786956787111,
+        "ISI": 17.7407169342041,
+        "BUI": 148.91590881347656,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NICOLL"
+    },
+    "394": {
+        "FFMC": 96.34497604370115,
+        "ISI": 16.126325225830076,
+        "BUI": 231.93739166259763,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ROCK CREEK"
+    },
+    "396": {
+        "FFMC": 93.29288024902344,
+        "ISI": 11.212794780731201,
+        "BUI": 98.35911560058594,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "OCTOPUS CREEK"
+    },
+    "398": {
+        "FFMC": 92.95146789550782,
+        "ISI": 11.84792366027832,
+        "BUI": 133.3150177001953,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CRESTON"
+    },
+    "401": {
+        "FFMC": 94.73074645996094,
+        "ISI": 12.610196590423584,
+        "BUI": 145.75406188964845,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GOATFELL"
+    },
+    "402": {
+        "FFMC": 95.40296783447266,
+        "ISI": 15.653334712982177,
+        "BUI": 162.59044494628904,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PENDOREILLE"
+    },
+    "404": {
+        "FFMC": 94.09669494628906,
+        "ISI": 12.601200485229496,
+        "BUI": 124.80140686035156,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SMALLWOOD"
+    },
+    "406": {
+        "FFMC": 94.2274169921875,
+        "ISI": 13.594526290893555,
+        "BUI": 106.79520416259766,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SLOCAN"
+    },
+    "407": {
+        "FFMC": 93.43026428222657,
+        "ISI": 12.82936325073242,
+        "BUI": 119.34971313476565,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NANCY GREEN"
+    },
+    "408": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NORNS (WIND)"
+    },
+    "411": {
+        "FFMC": 94.50178146362305,
+        "ISI": 12.641512584686279,
+        "BUI": 136.31793670654295,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PALLISER"
+    },
+    "412": {
+        "FFMC": 95.1935432434082,
+        "ISI": 16.911265563964843,
+        "BUI": 156.29747467041014,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ELKO"
+    },
+    "417": {
+        "FFMC": 94.89366912841797,
+        "ISI": 14.747201442718504,
+        "BUI": 162.8050521850586,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TOBY HUB"
+    },
+    "418": {
+        "FFMC": 94.04960632324219,
+        "ISI": 12.842853546142578,
+        "BUI": 122.90150451660156,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FLATHEAD 2"
+    },
+    "419": {
+        "FFMC": 95.08122177124024,
+        "ISI": 18.320391082763667,
+        "BUI": 167.83795928955078,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "JOHNSON LAKE"
+    },
+    "421": {
+        "FFMC": 93.62943572998047,
+        "ISI": 11.036161422729492,
+        "BUI": 117.19969635009767,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "DEWAR CREEK"
+    },
+    "425": {
+        "FFMC": 94.2864891052246,
+        "ISI": 15.954052639007571,
+        "BUI": 130.2476531982422,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "EMILY CREEK"
+    },
+    "426": {
+        "FFMC": 94.61207504272463,
+        "ISI": 14.893707942962646,
+        "BUI": 181.2381713867187,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CRANBROOK FS"
+    },
+    "427": {
+        "FFMC": 90.32585144042969,
+        "ISI": 6.6137974739074705,
+        "BUI": 78.80568847656251,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NASS CAMP"
+    },
+    "428": {
+        "FFMC": 90.94967346191406,
+        "ISI": 7.304631042480471,
+        "BUI": 71.53864898681644,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KISPIOX HUB"
+    },
+    "429": {
+        "FFMC": 92.14467697143553,
+        "ISI": 10.025595664978027,
+        "BUI": 115.8691177368164,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CEDARVALE"
+    },
+    "430": {
+        "FFMC": 91.09788208007814,
+        "ISI": 6.813010931015015,
+        "BUI": 83.89005279541016,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "VAN DYKE"
+    },
+    "431": {
+        "FFMC": 91.95989074707032,
+        "ISI": 8.637626266479492,
+        "BUI": 86.11832733154297,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "UPPER KISPIOX"
+    },
+    "432": {
+        "FFMC": 90.82732543945312,
+        "ISI": 6.417496681213379,
+        "BUI": 69.85594177246094,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BELL-IRVING"
+    },
+    "433": {
+        "FFMC": 90.42293090820313,
+        "ISI": 8.31458044052124,
+        "BUI": 79.56267547607422,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CRANBERRY"
+    },
+    "437": {
+        "FFMC": 92.21414260864258,
+        "ISI": 13.08791732788086,
+        "BUI": 90.01128387451172,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NOEL"
+    },
+    "438": {
+        "FFMC": 92.42937774658203,
+        "ISI": 9.659356117248535,
+        "BUI": 67.60441970825195,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ELK MOUNTAIN"
+    },
+    "440": {
+        "FFMC": 92.0239486694336,
+        "ISI": 9.62445621490479,
+        "BUI": 90.42660064697266,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FIRESIDE"
+    },
+    "444": {
+        "FFMC": 92.55013809204101,
+        "ISI": 8.832292556762704,
+        "BUI": 140.32474060058595,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KETCHIKA"
+    },
+    "445": {
+        "FFMC": 91.80909729003906,
+        "ISI": 8.271368026733397,
+        "BUI": 105.96402740478516,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BOYA LAKE"
+    },
+    "447": {
+        "FFMC": 92.45237426757812,
+        "ISI": 10.341060447692874,
+        "BUI": 99.92006072998049,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WATSON LAKE FS"
+    },
+    "474": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FROTH  (WIND)"
+    },
+    "480": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SILVERSTAR SF"
+    },
+    "503": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BAKER EAST/WEST HUB"
+    },
+    "599": {
+        "FFMC": 92.85799255371094,
+        "ISI": 11.241633892059326,
+        "BUI": 89.13277969360352,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FORT NELSON FS"
+    },
+    "654": {
+        "FFMC": 92.49037628173826,
+        "ISI": 10.5864013671875,
+        "BUI": 113.37568511962891,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HOLY CROSS 2"
+    },
+    "659": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ TEST"
+    },
+    "788": {
+        "FFMC": 92.60981750488281,
+        "ISI": 13.15124263763428,
+        "BUI": 101.95163345336914,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ROUND PRAIRIE"
+    },
+    "789": {
+        "FFMC": 92.99276733398438,
+        "ISI": 12.018947029113772,
+        "BUI": 107.74739227294926,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NEGRO CREEK"
+    },
+    "790": {
+        "FFMC": 94.24593887329102,
+        "ISI": 15.80080099105835,
+        "BUI": 115.53732757568359,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WHITE RIVER"
+    },
+    "791": {
+        "FFMC": 94.33173217773438,
+        "ISI": 14.477502059936526,
+        "BUI": 139.94078979492187,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CHERRY LAKE"
+    },
+    "793": {
+        "FFMC": 93.6142578125,
+        "ISI": 11.950601959228516,
+        "BUI": 92.42765655517579,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CARIBOO CREEK"
+    },
+    "832": {
+        "FFMC": 93.6218879699707,
+        "ISI": 15.199584007263185,
+        "BUI": 134.12664794921878,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CHURN CREEK"
+    },
+    "836": {
+        "FFMC": 95.0775146484375,
+        "ISI": 13.047691822052002,
+        "BUI": 189.71871948242188,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "AUGUST LAKE"
+    },
+    "838": {
+        "FFMC": 92.47129364013672,
+        "ISI": 9.655447006225588,
+        "BUI": 137.0645385742188,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "AKOKLI CREEK"
+    },
+    "865": {
+        "FFMC": 94.07776641845703,
+        "ISI": 14.493333911895752,
+        "BUI": 121.42720565795896,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BRISCO"
+    },
+    "866": {
+        "FFMC": 94.06374816894531,
+        "ISI": 10.871602058410645,
+        "BUI": 100.65383911132812,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BLAEBERRY"
+    },
+    "868": {
+        "FFMC": 92.11455993652343,
+        "ISI": 10.054479598999025,
+        "BUI": 90.9908935546875,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BIG MOUTH 2"
+    },
+    "873": {
+        "FFMC": 93.62176971435545,
+        "ISI": 11.552572250366213,
+        "BUI": 106.7472686767578,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CRAWFORD"
+    },
+    "876": {
+        "FFMC": 94.55170440673828,
+        "ISI": 12.883048057556152,
+        "BUI": 135.8063201904297,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "IDABEL LAKE 3"
+    },
+    "882": {
+        "FFMC": 92.31609191894532,
+        "ISI": 9.362272834777832,
+        "BUI": 82.27163543701172,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SICAMOUS"
+    },
+    "886": {
+        "FFMC": 95.11137084960937,
+        "ISI": 17.347944641113283,
+        "BUI": 122.88976440429687,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GOATHAVEN"
+    },
+    "903": {
+        "FFMC": 92.75485229492188,
+        "ISI": 11.288517665863036,
+        "BUI": 95.08269271850584,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CARROTT LAKE"
+    },
+    "904": {
+        "FFMC": 90.62613830566407,
+        "ISI": 10.711937713623048,
+        "BUI": 122.82794952392578,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HAGENSBORG 2"
+    },
+    "905": {
+        "FFMC": 93.45782470703125,
+        "ISI": 11.472940444946287,
+        "BUI": 76.00897216796875,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "DOWNIE"
+    },
+    "919": {
+        "FFMC": 92.18857116699219,
+        "ISI": 10.139509773254394,
+        "BUI": 61.73954162597657,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GOLDSTREAM 2"
+    },
+    "934": {
+        "FFMC": 92.48522186279297,
+        "ISI": 8.629069137573241,
+        "BUI": 159.41958618164062,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MESACHIE 2"
+    },
+    "938": {
+        "FFMC": 89.93682250976562,
+        "ISI": 8.062157154083252,
+        "BUI": 80.67532348632812,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PINE CREEK"
+    },
+    "944": {
+        "FFMC": 89.46892700195312,
+        "ISI": 6.180210590362549,
+        "BUI": 96.86211013793945,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TS SAN JUAN"
+    },
+    "945": {
+        "FFMC": 89.22984390258789,
+        "ISI": 8.08130512237549,
+        "BUI": 84.31919097900393,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TS NAKA CREEK"
+    },
+    "956": {
+        "FFMC": 89.20952682495117,
+        "ISI": 6.478703594207764,
+        "BUI": 63.10126266479494,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TS EFFINGHAM"
+    },
+    "977": {
+        "FFMC": 93.48913192749023,
+        "ISI": 10.252062797546387,
+        "BUI": 147.40206146240234,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ANDERSON CREEK"
+    },
+    "995": {
+        "FFMC": 90.99471282958984,
+        "ISI": 7.0945720195770265,
+        "BUI": 90.580916595459,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TS ARTLISH"
+    },
+    "1002": {
+        "FFMC": 88.53568954467774,
+        "ISI": 5.973965263366702,
+        "BUI": 76.5445281982422,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TS ELPHINSTONE"
+    },
+    "1003": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ BAY ST TESTQD"
+    },
+    "1024": {
+        "FFMC": 92.84178924560548,
+        "ISI": 11.30656318664551,
+        "BUI": 114.09906005859379,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SKOONKA"
+    },
+    "1025": {
+        "FFMC": 90.66532974243165,
+        "ISI": 6.625931310653686,
+        "BUI": 102.95833892822263,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TS THEODOSIA"
+    },
+    "1029": {
+        "FFMC": 94.45374832153318,
+        "ISI": 14.29779052734375,
+        "BUI": 203.7754867553711,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FIVE MILE"
+    },
+    "1037": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ AGASSIZ GM"
+    },
+    "1040": {
+        "FFMC": 93.26963424682617,
+        "ISI": 11.027422523498533,
+        "BUI": 108.24773559570312,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BIG SILVER 2"
+    },
+    "1045": {
+        "FFMC": 92.42973709106445,
+        "ISI": 14.71939754486084,
+        "BUI": 108.35824584960938,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "OSBORN"
+    },
+    "1055": {
+        "FFMC": 94.7948959350586,
+        "ISI": 16.7410120010376,
+        "BUI": 223.55575103759764,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SPLINTLUM"
+    },
+    "1056": {
+        "FFMC": 90.72239303588867,
+        "ISI": 7.7302475452423085,
+        "BUI": 108.15113220214843,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TS MAURELLE"
+    },
+    "1059": {
+        "FFMC": 90.11670837402345,
+        "ISI": 9.644551944732674,
+        "BUI": 21.299072265625004,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SEFCCOMP"
+    },
+    "1064": {
+        "FFMC": 90.87335205078125,
+        "ISI": 13.168379020690917,
+        "BUI": 78.42664489746093,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ TISIGAR QD"
+    },
+    "1066": {
+        "FFMC": 89.82987976074219,
+        "ISI": 5.59512825012207,
+        "BUI": 91.15953521728517,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TS MCNABB"
+    },
+    "1070": {
+        "FFMC": 93.0823013305664,
+        "ISI": 11.876362228393555,
+        "BUI": 196.82097473144532,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ TERRACE MOUNTAIN"
+    },
+    "1071": {
+        "FFMC": 93.70085754394532,
+        "ISI": 13.623828887939453,
+        "BUI": 145.2156982421875,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CRESCENT LAKE"
+    },
+    "1072": {
+        "FFMC": 92.52543563842774,
+        "ISI": 11.066638946533203,
+        "BUI": 119.68586273193361,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ MOOSECAMP"
+    },
+    "1073": {
+        "FFMC": 93.0175537109375,
+        "ISI": 10.640966606140138,
+        "BUI": 60.92119216918946,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ BONE CREEK"
+    },
+    "1074": {
+        "FFMC": 91.36608428955078,
+        "ISI": 9.831827163696294,
+        "BUI": 69.96495056152348,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ LATEWHOS TEMP"
+    },
+    "1075": {
+        "FFMC": 95.54611206054689,
+        "ISI": 15.725667953491213,
+        "BUI": 206.4134521484375,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KOOCANUSA"
+    },
+    "1080": {
+        "FFMC": 90.5645538330078,
+        "ISI": 7.680428314208986,
+        "BUI": 149.85125427246095,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ HASSLER"
+    },
+    "1082": {
+        "FFMC": 93.13205108642578,
+        "ISI": 12.037969207763673,
+        "BUI": 100.05891494750979,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MAYSON"
+    },
+    "1083": {
+        "FFMC": 94.89615249633789,
+        "ISI": 13.012556076049805,
+        "BUI": 160.86732482910156,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MEAGER CREEK"
+    },
+    "1084": {
+        "FFMC": 93.45906066894531,
+        "ISI": 11.894560432434083,
+        "BUI": 143.79958648681642,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SIGUTLAT LAKE QD"
+    },
+    "1085": {
+        "FFMC": 93.21400527954101,
+        "ISI": 11.105029296875003,
+        "BUI": 147.95953063964845,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ JADE QD"
+    },
+    "1086": {
+        "FFMC": 95.1922119140625,
+        "ISI": 46.74715423583985,
+        "BUI": 253.95553894042968,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ TWEDDLE CREEK QD"
+    },
+    "1087": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SIWASH QD"
+    },
+    "1088": {
+        "FFMC": 91.68678970336914,
+        "ISI": 7.046605014801027,
+        "BUI": 173.1380584716797,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ BATNUNI QD"
+    },
+    "1089": {
+        "FFMC": 90.04441909790039,
+        "ISI": 7.944060802459718,
+        "BUI": 129.27900695800778,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CURRIE186 QD"
+    },
+    "1092": {
+        "FFMC": 93.59095535278321,
+        "ISI": 11.4041166305542,
+        "BUI": 100.61030197143555,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "RORY CREEK"
+    },
+    "1093": {
+        "FFMC": 90.3655288696289,
+        "ISI": 6.019121932983398,
+        "BUI": 115.1220199584961,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "QUINSAM BASE FWX (TRIAL)"
+    },
+    "1099": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PAT BAY F6 TEST"
+    },
+    "1100": {
+        "FFMC": 91.0774513244629,
+        "ISI": 7.8492356300354,
+        "BUI": 69.97101516723635,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ DEEP CREEK TS"
+    },
+    "1101": {
+        "FFMC": 92.22795486450195,
+        "ISI": 10.12633819580078,
+        "BUI": 86.45735168457034,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ HUPEL"
+    },
+    "1102": {
+        "FFMC": 90.13299560546875,
+        "ISI": 9.01500930786133,
+        "BUI": 80.15251922607425,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ INONOAKLIN"
+    },
+    "1103": {
+        "FFMC": 89.64522933959961,
+        "ISI": 6.215364265441894,
+        "BUI": 47.47869338989258,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ TISIGAR NW QD"
+    },
+    "1107": {
+        "FFMC": 93.10880889892579,
+        "ISI": 13.03766632080078,
+        "BUI": 98.32303619384766,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ TRAPPING CREEK TEMP"
+    },
+    "1108": {
+        "FFMC": 94.59400329589845,
+        "ISI": 12.837848281860353,
+        "BUI": 82.84923400878908,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BLUE RIVER 2"
+    },
+    "1114": {
+        "FFMC": 92.46894073486328,
+        "ISI": 14.072461128234862,
+        "BUI": 117.23739471435549,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ BINTA PB QD"
+    },
+    "1115": {
+        "FFMC": 90.8137176513672,
+        "ISI": 12.711899375915525,
+        "BUI": 57.73352279663086,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ OSPREY PB"
+    },
+    "1116": {
+        "FFMC": 94.42385711669921,
+        "ISI": 23.45858268737793,
+        "BUI": 197.88384399414068,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CORNWALL CREEK TEMP"
+    },
+    "1121": {
+        "FFMC": 93.8572769165039,
+        "ISI": 17.082752990722657,
+        "BUI": 65.55744934082031,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ WHITE TAIL LAKE QD"
+    },
+    "1123": {
+        "FFMC": 92.70416717529297,
+        "ISI": 9.726953887939453,
+        "BUI": 47.98334655761718,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ W KOKANEE QD"
+    },
+    "1129": {
+        "FFMC": 93.6486213684082,
+        "ISI": 10.978193664550783,
+        "BUI": 106.50868225097658,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ LARCH HILLS TEMP"
+    },
+    "1132": {
+        "FFMC": 94.57757110595703,
+        "ISI": 11.895408821105958,
+        "BUI": 121.9735191345215,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "STATION BAY"
+    },
+    "1133": {
+        "FFMC": 93.48004379272462,
+        "ISI": 10.327376556396484,
+        "BUI": 145.9762725830078,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ BUG CAMP CREEK"
+    },
+    "1134": {
+        "FFMC": 81.34597244262696,
+        "ISI": 3.055152416229248,
+        "BUI": 37.62070083618164,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ NAHWITTI TEMP"
+    },
+    "1135": {
+        "FFMC": 95.53774032592773,
+        "ISI": 19.88590965270996,
+        "BUI": 161.10694274902343,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CLIFTON"
+    },
+    "1136": {
+        "FFMC": 89.71392135620117,
+        "ISI": 6.343282890319824,
+        "BUI": 87.53824920654297,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SKOOKUM CREEK"
+    },
+    "1139": {
+        "FFMC": 93.81531829833983,
+        "ISI": 11.541528511047362,
+        "BUI": 117.37373199462891,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SKIMMER HORN QD"
+    },
+    "1144": {
+        "FFMC": 92.25108795166015,
+        "ISI": 12.58272228240967,
+        "BUI": 116.23343505859376,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FORD MOUNTAIN"
+    },
+    "1145": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ STINKY QD"
+    },
+    "1147": {
+        "FFMC": 91.25540618896483,
+        "ISI": 17.02338342666626,
+        "BUI": 135.12792510986327,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SPATSUM QD"
+    },
+    "1148": {
+        "FFMC": 91.7055694580078,
+        "ISI": 9.080188179016114,
+        "BUI": 30.590276336669927,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ STEWART CREEK QD"
+    },
+    "1149": {
+        "FFMC": 92.75154571533203,
+        "ISI": 10.022514820098877,
+        "BUI": 105.95063400268555,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SLOQUET TEMP"
+    },
+    "1151": {
+        "FFMC": 93.23205490112306,
+        "ISI": 14.702911376953127,
+        "BUI": 120.38006210327148,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ BULL CREEK TEMP"
+    },
+    "1152": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "zz BALD RANGE S/F"
+    },
+    "1154": {
+        "FFMC": 91.5818084716797,
+        "ISI": 8.567942714691162,
+        "BUI": 89.07204208374023,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ MOUNT IDA TEMP"
+    },
+    "1156": {
+        "FFMC": 90.8083709716797,
+        "ISI": 9.487093353271485,
+        "BUI": 117.23560180664063,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SKEETER LAKE QD"
+    },
+    "1157": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ LINTZ LAKE QD"
+    },
+    "1159": {
+        "FFMC": 91.606689453125,
+        "ISI": 9.197708129882812,
+        "BUI": 96.36476745605471,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ PERRYRIDGEQD"
+    },
+    "1160": {
+        "FFMC": 88.50166320800781,
+        "ISI": 4.802366495132446,
+        "BUI": 166.1188507080078,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ ORFORD RIVER TEMP"
+    },
+    "1161": {
+        "FFMC": 87.73637390136719,
+        "ISI": 4.364586353302005,
+        "BUI": 119.12128295898438,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ BLUE JAY LAKE QD"
+    },
+    "1162": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CORKSCREW CREEK  QD"
+    },
+    "1165": {
+        "FFMC": 91.73830032348633,
+        "ISI": 7.927605628967285,
+        "BUI": 58.89031600952149,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SEVEREID"
+    },
+    "1168": {
+        "FFMC": 92.3927391052246,
+        "ISI": 12.075351238250734,
+        "BUI": 74.98083572387695,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ HAYLEMORE CREEK QD"
+    },
+    "1171": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ JOHNSTONE CREEK QD"
+    },
+    "1172": {
+        "FFMC": 92.91249084472656,
+        "ISI": 9.80034770965576,
+        "BUI": 32.839884185791014,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ COOPER QD"
+    },
+    "1174": {
+        "FFMC": 94.85843353271484,
+        "ISI": 13.974288940429688,
+        "BUI": 192.33527374267578,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SLEEPY HOLLOW TEMP"
+    },
+    "1175": {
+        "FFMC": 91.9915069580078,
+        "ISI": 8.557389926910401,
+        "BUI": 34.50562095642089,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ WEST KOKANEE QD"
+    },
+    "1176": {
+        "FFMC": 93.63392333984375,
+        "ISI": 10.420240116119388,
+        "BUI": 109.05942001342777,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MUDPIT"
+    },
+    "1178": {
+        "FFMC": 93.99444580078124,
+        "ISI": 12.218573951721194,
+        "BUI": 126.4025390625,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CENTER MOUNTAIN TEMP"
+    },
+    "1179": {
+        "FFMC": 95.3866180419922,
+        "ISI": 12.673916912078859,
+        "BUI": 93.96917343139648,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ LIZZIE BAY TEMP"
+    },
+    "1180": {
+        "FFMC": 93.96041412353516,
+        "ISI": 13.387540340423586,
+        "BUI": 115.38750152587889,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ RED CREEK TEMP"
+    },
+    "1181": {
+        "FFMC": 94.45550537109376,
+        "ISI": 12.996934700012208,
+        "BUI": 172.31176605224616,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NORTH SLOQUET"
+    },
+    "1183": {
+        "FFMC": 94.76727294921875,
+        "ISI": 16.154705047607422,
+        "BUI": 85.24143600463867,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SPRINGER QD"
+    },
+    "1184": {
+        "FFMC": 93.15231628417969,
+        "ISI": 11.44576244354248,
+        "BUI": 138.1811996459961,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CLENDINNING QD"
+    },
+    "1185": {
+        "FFMC": 92.15478591918945,
+        "ISI": 9.113301658630371,
+        "BUI": 172.20535888671876,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ MOGUL CREEK QD"
+    },
+    "1188": {
+        "FFMC": 91.8253318786621,
+        "ISI": 8.317217826843263,
+        "BUI": 53.26769638061523,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ ARTHUR CREEK TEMP"
+    },
+    "1189": {
+        "FFMC": 93.10705718994139,
+        "ISI": 11.260087013244627,
+        "BUI": 197.7558441162109,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ R10070 QD"
+    },
+    "1190": {
+        "FFMC": 91.21777191162109,
+        "ISI": 18.136204719543457,
+        "BUI": 89.75301742553711,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ G60195 QD"
+    },
+    "1191": {
+        "FFMC": 92.96080017089844,
+        "ISI": 11.807184600830078,
+        "BUI": 158.0619140625,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ WHITE ROCK QD"
+    },
+    "1192": {
+        "FFMC": 92.98946685791016,
+        "ISI": 9.473359775543212,
+        "BUI": 132.09842376708983,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SLOCAN N50320 QD"
+    },
+    "1193": {
+        "FFMC": 89.98978729248047,
+        "ISI": 8.986217498779297,
+        "BUI": 154.96782684326172,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ NARCO QD"
+    },
+    "1199": {
+        "FFMC": 88.6658447265625,
+        "ISI": 5.553823947906493,
+        "BUI": 69.95500640869139,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CLAYTON FALLS"
+    },
+    "1203": {
+        "FFMC": 93.27334594726561,
+        "ISI": 13.39418888092041,
+        "BUI": 116.93685150146484,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "DARKWOODS"
+    },
+    "1204": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ GYPSYMOTH - SURRY"
+    },
+    "1206": {
+        "FFMC": 96.15821380615235,
+        "ISI": 16.819559001922606,
+        "BUI": 92.44718933105469,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ 12 MILE QD"
+    },
+    "1207": {
+        "FFMC": 92.93094635009766,
+        "ISI": 10.24288330078125,
+        "BUI": 48.146244049072266,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SATHER QD"
+    },
+    "1208": {
+        "FFMC": 92.10248565673828,
+        "ISI": 8.791239929199218,
+        "BUI": 77.64632873535156,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ PROPHET QD"
+    },
+    "1212": {
+        "FFMC": 94.31313934326172,
+        "ISI": 18.5061185836792,
+        "BUI": 113.7251350402832,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ KIRTON TS"
+    },
+    "1213": {
+        "FFMC": 94.60387420654297,
+        "ISI": 13.022590923309327,
+        "BUI": 111.11983108520508,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ HUPEL TS"
+    },
+    "1214": {
+        "FFMC": 94.54950714111328,
+        "ISI": 13.862933158874512,
+        "BUI": 119.32406616210936,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ KEALY CREEK TS"
+    },
+    "1215": {
+        "FFMC": 94.87383041381837,
+        "ISI": 14.636611938476564,
+        "BUI": 240.80046234130862,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ POSTILL LAKE TEMP"
+    },
+    "1216": {
+        "FFMC": 94.51128387451173,
+        "ISI": 16.182463455200196,
+        "BUI": 117.01759262084961,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ ESPERON TS"
+    },
+    "1217": {
+        "FFMC": 95.74440155029298,
+        "ISI": 17.27073440551758,
+        "BUI": 153.35430297851562,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CLENDINNING 2 QD"
+    },
+    "1218": {
+        "FFMC": 91.479736328125,
+        "ISI": 7.894705963134766,
+        "BUI": 142.88240966796874,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "POWELL RIVER WEST LAKE"
+    },
+    "1219": {
+        "FFMC": 88.9206756591797,
+        "ISI": 4.834934854507447,
+        "BUI": 150.80123138427734,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ KING SALMON QD"
+    },
+    "1220": {
+        "FFMC": 94.24348449707031,
+        "ISI": 13.461667442321778,
+        "BUI": 161.7893493652344,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ N70261QD"
+    },
+    "1221": {
+        "FFMC": 91.6780303955078,
+        "ISI": 6.4147069454193115,
+        "BUI": 84.10419845581055,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MOUNT CAYLEY"
+    },
+    "1224": {
+        "FFMC": 95.46744842529296,
+        "ISI": 14.628664016723633,
+        "BUI": 156.44316864013672,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ BOULDER QD"
+    },
+    "1230": {
+        "FFMC": 90.64799346923829,
+        "ISI": 9.994596672058107,
+        "BUI": 26.431361770629888,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PHILIP"
+    },
+    "1234": {
+        "FFMC": 94.23334503173828,
+        "ISI": 12.573139095306395,
+        "BUI": 308.6564086914062,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ N60584QD"
+    },
+    "1235": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ WHISTLER TEMP QD"
+    },
+    "1239": {
+        "FFMC": 94.007763671875,
+        "ISI": 14.069176959991456,
+        "BUI": 103.50116806030273,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SASKATCHEWAN CROSSING"
+    },
+    "1240": {
+        "FFMC": 94.70572357177734,
+        "ISI": 9.825728607177735,
+        "BUI": 118.613346862793,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "BOULDER CREEK"
+    },
+    "1241": {
+        "FFMC": 94.79276657104492,
+        "ISI": 10.21618709564209,
+        "BUI": 125.21403808593749,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "VERMILLION CROSSING"
+    },
+    "1242": {
+        "FFMC": 94.86756439208985,
+        "ISI": 10.502161026000978,
+        "BUI": 127.95946121215822,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MCLEOD MEADOWS"
+    },
+    "1247": {
+        "FFMC": 91.38484954833983,
+        "ISI": 10.831476402282714,
+        "BUI": 168.69212951660154,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ COBBLE HILL TEST"
+    },
+    "1250": {
+        "FFMC": 92.63936614990234,
+        "ISI": 10.528094673156744,
+        "BUI": 117.52234039306644,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ WHISTLER TEMP"
+    },
+    "1251": {
+        "FFMC": 91.78707427978516,
+        "ISI": 7.239198207855224,
+        "BUI": 119.73470458984376,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "NARROWS INLET"
+    },
+    "1252": {
+        "FFMC": 94.7548095703125,
+        "ISI": 13.109245777130127,
+        "BUI": 36.3225154876709,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CANYON CREEK  QD"
+    },
+    "1254": {
+        "FFMC": 91.92039947509767,
+        "ISI": 10.282065773010254,
+        "BUI": 76.5333969116211,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ LOST CHAIN TS"
+    },
+    "1255": {
+        "FFMC": 92.41302337646485,
+        "ISI": 8.822017669677734,
+        "BUI": 69.7614517211914,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ ICE BOX TS"
+    },
+    "1256": {
+        "FFMC": 92.18375396728514,
+        "ISI": 11.722504997253418,
+        "BUI": 78.4585189819336,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ MISSION RIDGE TS"
+    },
+    "1257": {
+        "FFMC": 92.78057708740235,
+        "ISI": 11.638300609588626,
+        "BUI": 59.438042449951176,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ HOPE CREEK QD"
+    },
+    "1258": {
+        "FFMC": 91.24308395385742,
+        "ISI": 10.605563163757324,
+        "BUI": 77.57243347167969,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TEEPEE CREEK TEMP"
+    },
+    "1259": {
+        "FFMC": 90.8958740234375,
+        "ISI": 8.365789222717284,
+        "BUI": 58.64375305175781,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ GALTON QD"
+    },
+    "1260": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "REDSTREAK"
+    },
+    "1261": {
+        "FFMC": 95.28719024658201,
+        "ISI": 11.3558687210083,
+        "BUI": 220.37627563476562,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ONE MILE"
+    },
+    "1262": {
+        "FFMC": 94.23435974121094,
+        "ISI": 11.378503417968748,
+        "BUI": 120.23848571777343,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CARIBOU CORNER"
+    },
+    "1263": {
+        "FFMC": 95.42593688964844,
+        "ISI": 13.17920093536377,
+        "BUI": 101.38206939697265,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FIDELITY"
+    },
+    "1264": {
+        "FFMC": 95.09554901123047,
+        "ISI": 12.265107345581054,
+        "BUI": 134.14254455566405,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LOWER BEAVER"
+    },
+    "1265": {
+        "FFMC": 93.60474853515625,
+        "ISI": 12.355163955688477,
+        "BUI": 112.53343811035157,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "UPPER BEAVER"
+    },
+    "1266": {
+        "FFMC": 91.8395980834961,
+        "ISI": 10.235419750213623,
+        "BUI": 45.60042724609375,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ GOAT CREEK TS"
+    },
+    "1267": {
+        "FFMC": 89.92300109863281,
+        "ISI": 7.065392398834229,
+        "BUI": 93.6248908996582,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ OLD FADDY QD"
+    },
+    "1268": {
+        "FFMC": 94.28027114868163,
+        "ISI": 14.114084243774414,
+        "BUI": 95.8186264038086,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "VALEMOUNT AIRPORT"
+    },
+    "1270": {
+        "FFMC": 92.60483245849609,
+        "ISI": 10.567092323303225,
+        "BUI": 99.37513427734378,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "OLD FADDY"
+    },
+    "1274": {
+        "FFMC": 85.0,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MOUNT ARROWSMITH"
+    },
+    "1275": {
+        "FFMC": 92.07363891601562,
+        "ISI": 8.34830617904663,
+        "BUI": 60.539175415039075,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "APE LAKE"
+    },
+    "1276": {
+        "FFMC": 91.56238708496093,
+        "ISI": 6.639049673080446,
+        "BUI": 43.621639251708984,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "MACHMELL KLINIKLINI"
+    },
+    "1277": {
+        "FFMC": 94.91934204101562,
+        "ISI": 14.938431739807127,
+        "BUI": 316.58978271484375,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WEST KELOWNA"
+    },
+    "1279": {
+        "FFMC": 85.4484130859375,
+        "ISI": 5.135534763336182,
+        "BUI": 29.984974670410157,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ RED HILLS PB QD"
+    },
+    "1280": {
+        "FFMC": 84.74654235839844,
+        "ISI": 2.6741372585296634,
+        "BUI": 21.577311325073243,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HOPE CRK QD"
+    },
+    "1282": {
+        "FFMC": 89.2813591003418,
+        "ISI": 7.008056926727295,
+        "BUI": 162.69494934082033,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ SALTSPRING 3"
+    },
+    "1283": {
+        "FFMC": 94.86972427368164,
+        "ISI": 14.98070287704468,
+        "BUI": 180.72859344482424,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "CHEAKAMUS"
+    },
+    "1285": {
+        "FFMC": 95.20704193115235,
+        "ISI": 21.57474937438965,
+        "BUI": 306.12807006835936,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ KATHLEEN LAKE TEMP"
+    },
+    "1288": {
+        "FFMC": 94.30496673583984,
+        "ISI": 18.13223648071289,
+        "BUI": 225.12557678222655,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ RAVEN LAKE QD"
+    },
+    "1289": {
+        "FFMC": 80.50179824829101,
+        "ISI": 2.244631063938141,
+        "BUI": 42.349876403808594,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ HOOKER CREEK QD"
+    },
+    "1291": {
+        "FFMC": 95.03541107177733,
+        "ISI": 13.992089080810546,
+        "BUI": 177.49882965087892,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ LITTLE FORT TEMP"
+    },
+    "1292": {
+        "FFMC": 95.66300354003907,
+        "ISI": 17.31012763977051,
+        "BUI": 307.94345092773443,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZBRITTON CREEK TEMP"
+    },
+    "1293": {
+        "FFMC": 93.74024505615236,
+        "ISI": 13.504837989807127,
+        "BUI": 159.602783203125,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ PARK MTN TEMP"
+    },
+    "1294": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "VICTORIA RADIO SHOP TEST"
+    },
+    "1299": {
+        "FFMC": 94.70980377197266,
+        "ISI": 17.530398178100587,
+        "BUI": 349.61761474609375,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ CACHE CREEK AIRPORT QD"
+    },
+    "1300": {
+        "FFMC": 94.3907241821289,
+        "ISI": 14.578557968139648,
+        "BUI": 210.43099365234374,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ MCLEAN QD"
+    },
+    "1301": {
+        "FFMC": 94.4574981689453,
+        "ISI": 21.488882064819336,
+        "BUI": 254.4668731689453,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ KLEENA KLEENE QD"
+    },
+    "1302": {
+        "FFMC": 94.8016571044922,
+        "ISI": 17.879670715332036,
+        "BUI": 198.76004333496095,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ WILLIAMS LAKE QD"
+    },
+    "1303": {
+        "FFMC": 92.0,
+        "ISI": 11.994738388061522,
+        "BUI": 152.63363342285157,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ FISHPOT QD"
+    },
+    "1304": {
+        "FFMC": 94.1402816772461,
+        "ISI": 16.046956825256345,
+        "BUI": 173.4165451049805,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ TZENZAICUT QD"
+    },
+    "1305": {
+        "FFMC": 93.1762924194336,
+        "ISI": 9.119380569458007,
+        "BUI": 165.1619873046875,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ HARROP CREEK QD"
+    },
+    "1306": {
+        "FFMC": 95.16731109619141,
+        "ISI": 11.889028167724609,
+        "BUI": 194.34783325195312,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GRAVE CREEK QD"
+    },
+    "1313": {
+        "FFMC": 91.22900314331055,
+        "ISI": 5.539300918579102,
+        "BUI": 58.43547058105469,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "TETRAHEDRON"
+    },
+    "1317": {
+        "FFMC": 91.0091323852539,
+        "ISI": 8.861077308654785,
+        "BUI": 25.53171348571777,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "HOPE CREEK II QD"
+    },
+    "1318": {
+        "FFMC": 94.63714218139648,
+        "ISI": 14.684263801574707,
+        "BUI": 84.31201477050782,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ROCKINGHAM QD"
+    },
+    "1319": {
+        "FFMC": 92.02000732421875,
+        "ISI": 9.323391914367676,
+        "BUI": 96.01089096069336,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ K20351 QD"
+    },
+    "1320": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ K70348 QD"
+    },
+    "1321": {
+        "FFMC": 90.91305465698244,
+        "ISI": 8.394823265075683,
+        "BUI": 44.250293731689446,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KEEN 3 QD"
+    },
+    "1323": {
+        "FFMC": 92.51364440917969,
+        "ISI": 8.666396713256837,
+        "BUI": 122.55143585205077,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LARCH HILLS WEST"
+    },
+    "1326": {
+        "FFMC": 95.01161041259766,
+        "ISI": 11.92044153213501,
+        "BUI": 210.8039352416992,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "WILLIS EXT"
+    },
+    "1330": {
+        "FFMC": 94.81703567504883,
+        "ISI": 14.531746292114255,
+        "BUI": 173.95655822753906,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LODESTONE EXT"
+    },
+    "1331": {
+        "FFMC": 95.9547607421875,
+        "ISI": 17.638191604614256,
+        "BUI": 270.6001342773437,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "INKANEEP EXT"
+    },
+    "1332": {
+        "FFMC": 95.77041015625,
+        "ISI": 16.42407636642457,
+        "BUI": 207.05924072265626,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GRIZZLY EXT"
+    },
+    "1333": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SULPHUR CREEK QD"
+    },
+    "1335": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZYMOETZ QD"
+    },
+    "1337": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "STIKINE COMPLEX QD"
+    },
+    "1338": {
+        "FFMC": 93.84368591308593,
+        "ISI": 10.304906940460205,
+        "BUI": 164.80680084228516,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "JULLIET 317 QD"
+    },
+    "1339": {
+        "FFMC": 92.33617095947267,
+        "ISI": 8.695379066467286,
+        "BUI": 96.35887298583985,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "FOUR BARREL TEST"
+    },
+    "1340": {
+        "FFMC": 93.79045867919922,
+        "ISI": 11.401589107513425,
+        "BUI": 234.3203063964844,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ MEACHEN QD"
+    },
+    "1341": {
+        "FFMC": 91.65668029785157,
+        "ISI": 7.686111068725586,
+        "BUI": 260.95505981445314,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "SYRINGA QD"
+    },
+    "1342": {
+        "FFMC": 82.85817489624023,
+        "ISI": 8.965557098388672,
+        "BUI": 103.82711029052734,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ PLACER 690 QD"
+    },
+    "1343": {
+        "FFMC": 83.31208953857421,
+        "ISI": 2.5609118938446045,
+        "BUI": 105.3779067993164,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "ZZ OLD TOM CREEK 670 QD"
+    },
+    "1347": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "PERSEVERANCE"
+    },
+    "1348": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "KLINAKLINI"
+    },
+    "1350": {
+        "FFMC": NaN,
+        "ISI": NaN,
+        "BUI": NaN,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "LOWER CAIN"
+    },
+    "1352": {
+        "FFMC": 90.08819580078126,
+        "ISI": 9.100570678710938,
+        "BUI": 29.763238906860355,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "VAN HOUTEN QD"
+    },
+    "1355": {
+        "FFMC": 88.63962249755859,
+        "ISI": 7.098704051971436,
+        "BUI": 20.38771286010742,
+        "season": {
+            "start_month": 5,
+            "start_day": 1,
+            "end_month": 8,
+            "end_day": 31
+        },
+        "year_range": {
+            "start": 2010,
+            "end": 2019
+        },
+        "station_name": "GOAT QD"
+    }
+}

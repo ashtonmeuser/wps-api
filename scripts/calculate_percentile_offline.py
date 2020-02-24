@@ -16,17 +16,13 @@ END_YEAR = 2019
 
 # percentile to report out (in decimal format)
 PERCENTILE = 0.9
-
-OUTPUT_FILENAME = 'percentile_data.json'
 # ------------ end of input parameters ---------
 
 # ---------- GLOBAL VARIABLES ----------------
 # import the CSV into Pandas dataframe
-daily_weather_data = pd.read_csv('DailyWeather.csv')
+daily_weather_data = pd.read_csv('../DailyWeather.csv')
 # initialize empty Pandas Series for storing results
 ffmc_percentiles, bui_percentiles, isi_percentiles = pd.Series([], dtype=float), pd.Series([], dtype=float), pd.Series([], dtype=float)
-# initialize empty dictionary for storing output to json
-station_summary_dict = {}
 # create global Season instance to be used in output
 season = {
     'start_month': FIRE_SEASON_START_MONTH,
@@ -102,10 +98,9 @@ def write_output_to_json():
             'year_range': year_range,
             'station_name': daily_weather_data.loc[daily_weather_data['station_code'] == index, 'station_name'].iloc[0]
         }
-        station_summary_dict[index] = station_summary
-
-    with open(OUTPUT_FILENAME, 'w') as json_file:
-        json.dump(station_summary_dict, json_file)
+        output_filename = "../data/" + str(index) + ".json"
+        with open(output_filename, 'w+') as json_file:
+            json.dump(station_summary, json_file, indent=4)
 
     return 
 

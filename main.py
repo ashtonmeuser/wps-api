@@ -20,6 +20,10 @@ class YearRange(BaseModel):
     end: int
 
 
+class WeatherStation(BaseModel):
+    name: str
+    code: str
+
 class PercentileRequest(BaseModel):
     stations: List[str]
     percentile: int
@@ -32,7 +36,7 @@ class StationSummary(BaseModel):
     BUI: float
     season: Season
     year_range: YearRange
-    station_name: str
+    station: WeatherStation
 
 
 class MeanValues(BaseModel):

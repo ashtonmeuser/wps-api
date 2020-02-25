@@ -21,11 +21,6 @@ PERCENTILE = 0.9
 # ---------- GLOBAL VARIABLES ----------------
 # import the CSV into Pandas dataframe
 daily_weather_data = pd.read_csv('../DailyWeather.csv')
-# import weather_stations.json as dictionary for look-up
-# with open('../data/weather_stations.json') as fileHandle:
-#     weather_stations = json.loads(fileHandle.read())
-# fileHandle.close()
-weather_stations = json.loads('../data/weather_stations.json')[0]
 # initialize empty Pandas Series for storing results
 ffmc_percentiles, bui_percentiles, isi_percentiles = pd.Series([], dtype=float), pd.Series([], dtype=float), pd.Series([], dtype=float)
 # create global Season instance to be used in output
@@ -44,12 +39,23 @@ year_range = {
 
 # the algorithm
 def main():
+    stations_json_to_dict()
     parse_weather_dates()
     remove_data_outside_date_range()
     remove_data_outside_fire_season()
     sort_by_weather_station()
     calculate_percentile_per_station()
     write_output_to_json()
+
+def stations_json_to_dict():
+    with open('../data/weather_stations.json') as fileHandle:
+        weather_stations = json.loads(fileHandle.read())['weather_stations']
+    fileHandle.close()
+    global weather_stations_dict
+    weather_stations_dict = {}
+    for element in weather_stations:
+        weather_stations_dict[element['code']] = element['name']
+    return 
 
 def parse_weather_dates():
     # parse weather_date string into 3 columns: yyyy - mm - dd
@@ -89,19 +95,22 @@ def calculate_percentile_per_station():
 
 def write_output_to_json():
     global season, year_range
-    for index, value in ffmc_percentiles.items():
-        station_summary = {
-            'FFMC': value,
-            'ISI': isi_percentiles[index],
-            'BUI': bui_percentiles[index],
-            'season': season,
-            'year_range': year_range,
-            'station_name': weather_stations[index]
-        }
-        output_filename = "../data/" + str(index) + ".json"
-        with open(output_filename, 'w+') as json_file:
-            json.dump(station_summary, json_file, indent=4)
-
+    for key, value in weather_stations_dict.items():
+        ws = {'code': key, 'name': value}
+        try:
+            station_results = {
+                'FFMC': ffmc_percentiles[int(key)],
+                'ISI': isi_percentiles[int(key)],
+                'BUI': bui_percentiles[int(key)],
+                'season': season,
+                'year_range': year_range,
+                'station': ws
+            }
+            output_filename = "../data/" + key + ".json"
+            with open(output_filename, 'w+') as json_file:
+                json.dump(station_results, json_file, indent=4)
+        except KeyError:
+            print('Data not available for ' + key)
     return 
 
 if __name__ == '__main__':

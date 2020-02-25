@@ -21,6 +21,11 @@ PERCENTILE = 0.9
 # ---------- GLOBAL VARIABLES ----------------
 # import the CSV into Pandas dataframe
 daily_weather_data = pd.read_csv('../DailyWeather.csv')
+# import weather_stations.json as dictionary for look-up
+# with open('../data/weather_stations.json') as fileHandle:
+#     weather_stations = json.loads(fileHandle.read())
+# fileHandle.close()
+weather_stations = json.loads('../data/weather_stations.json')[0]
 # initialize empty Pandas Series for storing results
 ffmc_percentiles, bui_percentiles, isi_percentiles = pd.Series([], dtype=float), pd.Series([], dtype=float), pd.Series([], dtype=float)
 # create global Season instance to be used in output
@@ -91,7 +96,7 @@ def write_output_to_json():
             'BUI': bui_percentiles[index],
             'season': season,
             'year_range': year_range,
-            'station_name': daily_weather_data.loc[daily_weather_data['station_code'] == index, 'station_name'].iloc[0]
+            'station_name': weather_stations[index]
         }
         output_filename = "../data/" + str(index) + ".json"
         with open(output_filename, 'w+') as json_file:

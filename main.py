@@ -5,7 +5,7 @@ from typing import List, Dict
 
 from pydantic import BaseModel
 from starlette.middleware.cors import CORSMiddleware
-from fastapi import FastAPI, Form
+from fastapi import FastAPI, Form, HTTPException
 
 
 class Season(BaseModel):
@@ -96,7 +96,10 @@ async def get_percentiles(request: PercentileRequest):
     isi = []
     ffmc = []
     for station in request.stations:
-        summary = StationSummary.parse_file('data/{}.json'.format(station))
+        try:
+            summary = StationSummary.parse_file('data/{}.json'.format(station))
+        except FileNotFoundError:
+            raise HTTPException(status_code=404, detail="Weather data not found")
         bui.append(summary.BUI)
         isi.append(summary.ISI)
         ffmc.append(summary.FFMC)

@@ -29,3 +29,17 @@ class BasicTestCase(unittest.TestCase):
                                    }
                                })
         self.assertEqual(response.status_code, 200)
+
+    def test_handle_invalid_station(self):
+        client = TestClient(app)
+        response = client.post('/percentiles/',
+                                headers={'Content-Type': 'application/json'},
+                                json={
+                                    "stations": ["1"],  # no station with ID == 1 exists
+                                    "percentile": 90,
+                                    "year_range": {
+                                        "start": 2010,
+                                        "end": 2019
+                                    }
+                                })
+        self.assertEqual(response.status_code, 404)

@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "BURNS LAKE 850M"
+    "station": {
+        "code": "181",
+        "name": "BURNS LAKE 850M"
+    }
 }

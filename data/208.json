@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TATLA LAKE HUB"
+    "station": {
+        "code": "208",
+        "name": "TATLA LAKE HUB"
+    }
 }

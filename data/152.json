@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "SIFTON"
+    "station": {
+        "code": "152",
+        "name": "SIFTON"
+    }
 }

@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "NARROWS INLET"
+    "station": {
+        "code": "1251",
+        "name": "NARROWS INLET"
+    }
 }

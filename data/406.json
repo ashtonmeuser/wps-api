@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "SLOCAN"
+    "station": {
+        "code": "406",
+        "name": "SLOCAN"
+    }
 }

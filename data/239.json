@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "CLEARWATER HUB"
+    "station": {
+        "code": "239",
+        "name": "CLEARWATER HUB"
+    }
 }

@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "DECEPTION"
+    "station": {
+        "code": "251",
+        "name": "DECEPTION"
+    }
 }

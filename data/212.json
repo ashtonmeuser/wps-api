@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "PLACE LAKE"
+    "station": {
+        "code": "212",
+        "name": "PLACE LAKE"
+    }
 }

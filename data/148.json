@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "BLACKPINE"
+    "station": {
+        "code": "148",
+        "name": "BLACKPINE"
+    }
 }

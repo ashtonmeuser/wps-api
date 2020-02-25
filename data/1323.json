@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "LARCH HILLS WEST"
+    "station": {
+        "code": "1323",
+        "name": "LARCH HILLS WEST"
+    }
 }

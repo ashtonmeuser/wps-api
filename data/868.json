@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "BIG MOUTH 2"
+    "station": {
+        "code": "868",
+        "name": "BIG MOUTH 2"
+    }
 }

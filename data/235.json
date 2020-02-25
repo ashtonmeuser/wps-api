@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "YOUNG LAKE"
+    "station": {
+        "code": "235",
+        "name": "YOUNG LAKE"
+    }
 }

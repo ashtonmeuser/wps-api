@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "BEAVER CREEK"
+    "station": {
+        "code": "37",
+        "name": "BEAVER CREEK"
+    }
 }

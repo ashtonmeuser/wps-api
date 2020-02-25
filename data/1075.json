@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "KOOCANUSA"
+    "station": {
+        "code": "1075",
+        "name": "KOOCANUSA"
+    }
 }

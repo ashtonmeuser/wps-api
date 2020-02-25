@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "WHITE RIVER"
+    "station": {
+        "code": "790",
+        "name": "WHITE RIVER"
+    }
 }

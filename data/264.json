@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "PRAIRIE CREEK"
+    "station": {
+        "code": "264",
+        "name": "PRAIRIE CREEK"
+    }
 }

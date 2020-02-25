@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "FORT ST JAMES"
+    "station": {
+        "code": "146",
+        "name": "FORT ST JAMES"
+    }
 }

@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TOBY HUB"
+    "station": {
+        "code": "417",
+        "name": "TOBY HUB"
+    }
 }

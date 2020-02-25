@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "AKOKLI CREEK"
+    "station": {
+        "code": "838",
+        "name": "AKOKLI CREEK"
+    }
 }

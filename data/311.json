@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "MCLEAN LAKE"
+    "station": {
+        "code": "311",
+        "name": "MCLEAN LAKE"
+    }
 }

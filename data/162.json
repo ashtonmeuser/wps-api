@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "HOUSTON(DUNGATE)"
+    "station": {
+        "code": "162",
+        "name": "HOUSTON(DUNGATE)"
+    }
 }

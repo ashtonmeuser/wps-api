@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TS ARTLISH"
+    "station": {
+        "code": "995",
+        "name": "TS ARTLISH"
+    }
 }

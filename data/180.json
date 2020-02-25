@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "MCBRIDE LAKE"
+    "station": {
+        "code": "180",
+        "name": "MCBRIDE LAKE"
+    }
 }

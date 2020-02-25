@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "NORNS (WIND)"
+    "station": {
+        "code": "408",
+        "name": "NORNS (WIND)"
+    }
 }

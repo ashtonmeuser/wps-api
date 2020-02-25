@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TS SAN JUAN"
+    "station": {
+        "code": "944",
+        "name": "TS SAN JUAN"
+    }
 }

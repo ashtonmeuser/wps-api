@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "PERSEVERANCE"
+    "station": {
+        "code": "1347",
+        "name": "PERSEVERANCE"
+    }
 }

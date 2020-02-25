@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "NORTH BABINE"
+    "station": {
+        "code": "173",
+        "name": "NORTH BABINE"
+    }
 }

@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "CURWEN CREEK"
+    "station": {
+        "code": "352",
+        "name": "CURWEN CREEK"
+    }
 }

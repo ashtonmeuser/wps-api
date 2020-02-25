@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TROUT LAKE"
+    "station": {
+        "code": "387",
+        "name": "TROUT LAKE"
+    }
 }

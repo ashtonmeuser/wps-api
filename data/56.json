@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "BOWSER"
+    "station": {
+        "code": "56",
+        "name": "BOWSER"
+    }
 }

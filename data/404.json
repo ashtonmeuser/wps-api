@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "SMALLWOOD"
+    "station": {
+        "code": "404",
+        "name": "SMALLWOOD"
+    }
 }

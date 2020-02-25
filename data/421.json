@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "DEWAR CREEK"
+    "station": {
+        "code": "421",
+        "name": "DEWAR CREEK"
+    }
 }

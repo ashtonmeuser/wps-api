@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "MCGREGOR 2"
+    "station": {
+        "code": "192",
+        "name": "MCGREGOR 2"
+    }
 }

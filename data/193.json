@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "BOWRON HAGGEN"
+    "station": {
+        "code": "193",
+        "name": "BOWRON HAGGEN"
+    }
 }

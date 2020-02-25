@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "SEVEREID"
+    "station": {
+        "code": "1165",
+        "name": "SEVEREID"
+    }
 }

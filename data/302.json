@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "ASPEN GROVE"
+    "station": {
+        "code": "302",
+        "name": "ASPEN GROVE"
+    }
 }

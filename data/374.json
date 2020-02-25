@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "SUCCOUR CREEK"
+    "station": {
+        "code": "374",
+        "name": "SUCCOUR CREEK"
+    }
 }

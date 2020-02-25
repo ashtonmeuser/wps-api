@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "UPPER FULTON"
+    "station": {
+        "code": "169",
+        "name": "UPPER FULTON"
+    }
 }

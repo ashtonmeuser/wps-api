@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "LEMORAY"
+    "station": {
+        "code": "140",
+        "name": "LEMORAY"
+    }
 }

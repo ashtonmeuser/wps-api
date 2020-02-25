@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "BIG VALLEY"
+    "station": {
+        "code": "262",
+        "name": "BIG VALLEY"
+    }
 }

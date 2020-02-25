@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "FORD MOUNTAIN"
+    "station": {
+        "code": "1144",
+        "name": "FORD MOUNTAIN"
+    }
 }

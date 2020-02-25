@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "IDABEL LAKE 3"
+    "station": {
+        "code": "876",
+        "name": "IDABEL LAKE 3"
+    }
 }

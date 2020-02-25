@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "ROUND PRAIRIE"
+    "station": {
+        "code": "788",
+        "name": "ROUND PRAIRIE"
+    }
 }

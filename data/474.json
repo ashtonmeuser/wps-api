@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "FROTH  (WIND)"
+    "station": {
+        "code": "474",
+        "name": "FROTH  (WIND)"
+    }
 }

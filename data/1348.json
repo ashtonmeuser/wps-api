@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "KLINAKLINI"
+    "station": {
+        "code": "1348",
+        "name": "KLINAKLINI"
+    }
 }

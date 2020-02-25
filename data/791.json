@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "CHERRY LAKE"
+    "station": {
+        "code": "791",
+        "name": "CHERRY LAKE"
+    }
 }

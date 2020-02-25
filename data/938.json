@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "PINE CREEK"
+    "station": {
+        "code": "938",
+        "name": "PINE CREEK"
+    }
 }

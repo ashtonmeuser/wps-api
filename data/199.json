@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "CATFISH"
+    "station": {
+        "code": "199",
+        "name": "CATFISH"
+    }
 }

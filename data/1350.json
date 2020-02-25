@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "LOWER CAIN"
+    "station": {
+        "code": "1350",
+        "name": "LOWER CAIN"
+    }
 }

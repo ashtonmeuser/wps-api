@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "CAHILTY"
+    "station": {
+        "code": "253",
+        "name": "CAHILTY"
+    }
 }

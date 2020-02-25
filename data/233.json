@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TALCHAKO"
+    "station": {
+        "code": "233",
+        "name": "TALCHAKO"
+    }
 }

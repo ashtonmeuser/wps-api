@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "MIDDLE LAKE"
+    "station": {
+        "code": "226",
+        "name": "MIDDLE LAKE"
+    }
 }

@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "GRAND FORKS"
+    "station": {
+        "code": "392",
+        "name": "GRAND FORKS"
+    }
 }

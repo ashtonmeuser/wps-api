@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "RORY CREEK"
+    "station": {
+        "code": "1092",
+        "name": "RORY CREEK"
+    }
 }

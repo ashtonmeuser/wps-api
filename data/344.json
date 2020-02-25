@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "SEYMOUR ARM"
+    "station": {
+        "code": "344",
+        "name": "SEYMOUR ARM"
+    }
 }

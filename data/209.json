@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "ALEXIS CREEK"
+    "station": {
+        "code": "209",
+        "name": "ALEXIS CREEK"
+    }
 }

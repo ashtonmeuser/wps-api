@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TELEGRAPH CREEK"
+    "station": {
+        "code": "110",
+        "name": "TELEGRAPH CREEK"
+    }
 }

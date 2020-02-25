@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "QUINSAM BASE FWX (TRIAL)"
+    "station": {
+        "code": "1093",
+        "name": "QUINSAM BASE FWX (TRIAL)"
+    }
 }

@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "MACHMELL KLINIKLINI"
+    "station": {
+        "code": "1276",
+        "name": "MACHMELL KLINIKLINI"
+    }
 }

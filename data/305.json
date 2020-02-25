@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "SPARKS LAKE"
+    "station": {
+        "code": "305",
+        "name": "SPARKS LAKE"
+    }
 }

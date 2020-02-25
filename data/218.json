@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "LONE BUTTE"
+    "station": {
+        "code": "218",
+        "name": "LONE BUTTE"
+    }
 }

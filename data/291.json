@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "GLIMPSE"
+    "station": {
+        "code": "291",
+        "name": "GLIMPSE"
+    }
 }

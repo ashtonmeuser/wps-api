@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TURTLE"
+    "station": {
+        "code": "286",
+        "name": "TURTLE"
+    }
 }

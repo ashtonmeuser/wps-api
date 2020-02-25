@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TS MCNABB"
+    "station": {
+        "code": "1066",
+        "name": "TS MCNABB"
+    }
 }

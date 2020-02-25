@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "TSAR CREEK"
+    "station": {
+        "code": "361",
+        "name": "TSAR CREEK"
+    }
 }

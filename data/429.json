@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "CEDARVALE"
+    "station": {
+        "code": "429",
+        "name": "CEDARVALE"
+    }
 }

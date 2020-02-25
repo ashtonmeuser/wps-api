@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "ATLIN"
+    "station": {
+        "code": "111",
+        "name": "ATLIN"
+    }
 }

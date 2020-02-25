@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "UPPER KISPIOX"
+    "station": {
+        "code": "431",
+        "name": "UPPER KISPIOX"
+    }
 }

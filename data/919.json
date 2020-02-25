@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "GOLDSTREAM 2"
+    "station": {
+        "code": "919",
+        "name": "GOLDSTREAM 2"
+    }
 }

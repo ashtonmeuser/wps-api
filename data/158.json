@@ -12,5 +12,8 @@
         "start": 2010,
         "end": 2019
     },
-    "station_name": "VANDERHOOF HUB"
+    "station": {
+        "code": "158",
+        "name": "VANDERHOOF HUB"
+    }
 }

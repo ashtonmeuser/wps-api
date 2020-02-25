@@ -55,19 +55,14 @@ def parse_weather_dates():
     return
 
 def remove_data_outside_date_range():
-    # remove data recorded before START_YEAR
-    indexNames = daily_weather_data[daily_weather_data['year'] < START_YEAR].index
-    daily_weather_data.drop(indexNames, inplace=True)
-    # remove data recorded after END_YEAR
-    indexNames = daily_weather_data[daily_weather_data['year'] > END_YEAR].index
+    # remove data recorded before START_YEAR or after END_YEAR
+    indexNames = daily_weather_data[(daily_weather_data['year'] < START_YEAR) | (daily_weather_data['year'] > END_YEAR)].index
     daily_weather_data.drop(indexNames, inplace=True)
     return 
 
 def remove_data_outside_fire_season():
     # remove data recorded outside of fire season
-    indexNames = daily_weather_data[daily_weather_data['month'] < FIRE_SEASON_START_MONTH].index
-    daily_weather_data.drop(indexNames, inplace=True)
-    indexNames = daily_weather_data[daily_weather_data['month'] > FIRE_SEASON_END_MONTH].index
+    indexNames = daily_weather_data[(daily_weather_data['month'] < FIRE_SEASON_START_MONTH) | (daily_weather_data['month'] > FIRE_SEASON_END_MONTH)].index
     daily_weather_data.drop(indexNames, inplace=True)
     indexNames = daily_weather_data[(daily_weather_data['month'] == FIRE_SEASON_START_MONTH) & (daily_weather_data['day'] < FIRE_SEASON_START_DATE)].index
     daily_weather_data.drop(indexNames, inplace=True)
@@ -88,10 +83,10 @@ def calculate_percentile_per_station():
     return
 
 def write_output_to_json():
-    global season, year_range, station_summary_dict
+    global season, year_range
     for index, value in ffmc_percentiles.items():
         station_summary = {
-            'FFMC': ffmc_percentiles[index],
+            'FFMC': value,
             'ISI': isi_percentiles[index],
             'BUI': bui_percentiles[index],
             'season': season,

@@ -49,8 +49,7 @@ def main():
 
 def stations_json_to_dict():
     with open('../data/weather_stations.json') as fileHandle:
-        weather_stations = json.loads(fileHandle.read())['weather_stations']
-    fileHandle.close()
+        weather_stations = json.load(fileHandle)['weather_stations']
     global weather_stations_dict
     weather_stations_dict = {}
     for element in weather_stations:

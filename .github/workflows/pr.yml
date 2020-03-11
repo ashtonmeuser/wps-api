@@ -2,7 +2,7 @@ name: Pull Request Deployment
 on: pull_request
 jobs:
   deploy:
-    name: OpenShift Deployment
+    name: OpenShift Deployment Using GH Action
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

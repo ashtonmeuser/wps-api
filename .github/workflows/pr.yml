@@ -1,0 +1,17 @@
+name: Pull Request Deployment
+on: pull_request
+jobs:
+  deploy:
+    name: OpenShift Deployment
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Use Pipeline Action
+        uses: bcgov/openshift-launchpad-deployment@github-action
+        with:
+          MODE: server
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+          NAMESPACE: apdwlc-tools
+          APP_NAME: wps-api-pr${{ github.event.number }}
+          SERVER_PORT: 8080

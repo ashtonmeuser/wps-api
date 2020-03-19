@@ -12,7 +12,7 @@ jobs:
         with:
           MODE: server
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
-          NAMESPACE: apdwlc-tools
+          NAMESPACE: apdwlc-test
           APP_NAME: wps-api-pr${{ github.event.number }}
           BRANCH: ${{ github.event.pull_request.head.ref }}
           SERVER_PORT: 8080
